@@ -18,3 +18,23 @@
 - Baseball Reference
   - More Player info https://www.baseball-reference.com/players/a/altuvjo01.shtml
   - Team Info: https://www.baseball-reference.com/teams/PIT/2023.shtml
+
+## Django Tips
+
+Activate venv on Windows:
+
+- `venv\Scripts\activate.ps1` (from django-backend folder)
+
+Useful Django commands:
+
+- `python authored\manage.py makemigrations` and `python authored\manage.py migrate` Run anytime the models are changed for an app
+
+- `python authored\manage.py runserver` Start the server (from django-backend/authored folder)
+
+- `python authored\manage.py createsuperuser --email admin@example.com --first_name Bryan --last_name Quinn --role Author` Add user account after DB deleted
+
+- `cd authored && pytest` Run the unit tests (must be done from the authored folder)
+
+## Dashboard Templates
+
+- https://medium.com/@appseed.us/django-dashboards-open-source-and-free-projects-1d8e64919e6d
