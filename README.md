@@ -38,3 +38,5 @@ Useful Django commands:
 ## Dashboard Templates
 
 - https://medium.com/@appseed.us/django-dashboards-open-source-and-free-projects-1d8e64919e6d
+- Using this one: https://github.com/app-generator/django-volt-dashboard
+  - Live demo: https://django-volt-dashboard.appseed-srv1.com/dashboard.html
