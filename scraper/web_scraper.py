@@ -63,6 +63,7 @@ def convert_table_to_json(html_table):
 
     # Find all rows in the table
     rows = table.find_all('tr', class_='dataRow')
+    table_header = table.find_all('tr', class_='headerRow')[0].find_all('td')
 
     # Iterate through each row
     for row in rows:
@@ -71,12 +72,18 @@ def convert_table_to_json(html_table):
 
         # Find all cells in the row
         cells = row.find_all('td')
-        table_header = table.find_all('tr', class_='headerRow')[0].find_all('td')
 
         # Iterate through each cell
         for i, cell in enumerate(cells):
             # Get the column header
             header = table_header[i].text.strip()
+
+            # Check if the cell contains a link
+            link = cell.find('a')
+            if link:
+                # If a link is found, add it to the row data
+                link_url = link['href']
+                row_data[f'{header} link'] = link_url
 
             # Get the cell value
             value = cell.text.strip()
