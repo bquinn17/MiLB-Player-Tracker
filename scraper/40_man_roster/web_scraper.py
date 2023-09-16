@@ -106,5 +106,6 @@ def convert_table_to_json(html_table):
 
 
 if __name__ == '__main__':
-    html_table = load_table_from_file()
+    html_table = download_table()
+    # html_table = load_table_from_file()
     convert_table_to_json(html_table)
