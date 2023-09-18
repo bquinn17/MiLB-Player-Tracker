@@ -1,3 +1,4 @@
+import datetime
 import math
 
 import requests
@@ -151,12 +152,18 @@ def check_for_updates(new_player_json):
         for key in new_player_obj:
             if new_player_obj[key] != old_player_obj[key]:
                 print("Update found to player data: ")
-                update_message = f"Player: {new_player_obj['player_name']} changed {key} from {old_player_obj[key]} to {new_player_obj[key]}"
+                update_message = f"Player: {new_player_obj['player_name']} changed {key} from {old_player_obj[key]} to {new_player_obj[key]} on date: {str(datetime.date.today())}"
                 print(update_message)
                 updates_list.append(update_message)
 
+    old_updates = []
+    with open("updates.json", "r") as file:
+        old_updates = json.load(file)
+
     with open("updates.json", "w+") as file:
-        file.write(json.dumps(updates_list))
+        if isinstance(old_updates, list):
+            old_updates.extend(updates_list)
+        file.write(json.dumps(old_updates))
 
 
 if __name__ == '__main__':
