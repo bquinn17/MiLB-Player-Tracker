@@ -9,6 +9,23 @@ headers = {
         "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
 }
 
+FIELD_MAPPINGS = {
+        "player name": "player_name",
+        "pos": "position",
+        "age": "age",
+        "statusshort": "current_status",
+        "ht": "height",
+        "wt": "weight",
+        "ba": "batting_hand",
+        "th": "throwing_hand",
+        "Born": "birthday",
+        "place": "hometown",
+        "hilvl": "highest_level_played",
+        "mlb years": "year_in_mlb",
+        "stat years": "stat_years",
+        "draft info": "draft_info"
+    }
+
 
 def download_table():
     response = requests.get(url, headers=headers)
@@ -65,6 +82,14 @@ def convert_table_to_json(html_table):
     rows = table.find_all('tr', class_='dataRow')
     table_header = table.find_all('tr', class_='headerRow')[0].find_all('td')
 
+    for i in range(len(table_header)):
+        header_value = table_header[i].text.strip()
+        if header_value in FIELD_MAPPINGS:
+            header_value = FIELD_MAPPINGS[header_value]
+        else:
+            print("Header value not found: ", header_value)
+        table_header[i] = header_value
+
     # Iterate through each row
     for row in rows:
         # Initialize an empty dictionary to store row data
@@ -76,14 +101,14 @@ def convert_table_to_json(html_table):
         # Iterate through each cell
         for i, cell in enumerate(cells):
             # Get the column header
-            header = table_header[i].text.strip()
+            header = table_header[i]
 
             # Check if the cell contains a link
             link = cell.find('a')
             if link:
                 # If a link is found, add it to the row data
                 link_url = link['href']
-                row_data[f'{header} link'] = link_url
+                row_data[f'{header}_link'] = link_url
 
             # Get the cell value
             value = cell.text.strip()
@@ -106,6 +131,6 @@ def convert_table_to_json(html_table):
 
 
 if __name__ == '__main__':
-    html_table = download_table()
-    # html_table = load_table_from_file()
+    # html_table = download_table()
+    html_table = load_table_from_file()
     convert_table_to_json(html_table)
