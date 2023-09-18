@@ -1,3 +1,5 @@
+import math
+
 import requests
 from lxml import html
 from bs4 import BeautifulSoup
@@ -113,6 +115,9 @@ def convert_table_to_json(html_table):
             # Get the cell value
             value = cell.text.strip()
 
+            if header == 'age':
+                value = str(math.floor(float(value)))
+
             # Add the data to the row dictionary
             if header != '':
                 row_data[header] = value
@@ -123,7 +128,7 @@ def convert_table_to_json(html_table):
     # Convert the data list to JSON
     json_data = json.dumps(data, indent=4)
 
-    check_for_updates(json_data)
+    check_for_updates(data)
 
     print("Total number of players found: ", len(data))
 
@@ -134,14 +139,14 @@ def convert_table_to_json(html_table):
 
 def check_for_updates(new_player_json):
     old_player_json = ''
-    with open("page_content.html", "r") as file:
+    with open("top_players.json", "r") as file:
         old_player_json = json.load(file)
 
     for i in range(len(new_player_json)):
         old_player_obj = old_player_json[i]
         new_player_obj = new_player_json[i]
 
-        for key in new_player_obj.keys():
+        for key in new_player_obj:
             if new_player_obj[key] != old_player_obj[key]:
                 print("Update found to player data: ")
                 print(f"Player: {new_player_obj['player_name']} changed "
