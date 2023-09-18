@@ -123,11 +123,29 @@ def convert_table_to_json(html_table):
     # Convert the data list to JSON
     json_data = json.dumps(data, indent=4)
 
+    check_for_updates(json_data)
+
     print("Total number of players found: ", len(data))
 
     # Save the JSON data
     with open("top_players.json", "w+") as file:
         file.write(json_data)
+
+
+def check_for_updates(new_player_json):
+    old_player_json = ''
+    with open("page_content.html", "r") as file:
+        old_player_json = json.load(file)
+
+    for i in range(len(new_player_json)):
+        old_player_obj = old_player_json[i]
+        new_player_obj = new_player_json[i]
+
+        for key in new_player_obj.keys():
+            if new_player_obj[key] != old_player_obj[key]:
+                print("Update found to player data: ")
+                print(f"Player: {new_player_obj['player_name']} changed "
+                      f"{key} from {old_player_obj[key]} to {new_player_obj[key]}")
 
 
 if __name__ == '__main__':

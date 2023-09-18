@@ -18,7 +18,7 @@
                   <h2 class="fs-5 fw-bold mb-0">Total Players: {{ players|length }}</h2>
                 </div>
                 <div class="col">
-                  <h3 class="fs-5 fw-bold mb-0">Select the Player's Name For More Info</h3>
+                  <h3 class="fs-5 fw-bold mb-0">Select the <b>Player's Name</b>, <b>Hometown</b>, or <b>Draft Info</b> To See More</h3>
                 </div>
                 <div class="col text-end">
                   <a href="https://www.thebaseballcube.com/content/current_rosters/23/" class="btn btn-sm btn-primary">Source</a>
@@ -48,7 +48,7 @@
                 <tbody>
                   {% for player in players %}
                   <tr>
-                    <td><a href="{{ player.player_name_link }}">{{ player.player_name }}</a></td>
+                    <td><a href="{{ player.player_name_link }}" class="link">{{ player.player_name }}</a></td>
                     <td>{{ player.position }}</td>
                     <td>{{ player.age }}</td>
                     <td>{{ player.current_status }}</td>
