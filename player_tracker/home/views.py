@@ -31,13 +31,13 @@ def dashboard(request):
 
 # Top Recruits
 def recruits(request):
-    with open("data/40_man_roster.json", "r") as file:
+    with open("data/prospects.json", "r") as file:
         roster_text = ''.join(file.readlines())
 
     roster_json = json.loads(roster_text)
 
     context = {
-        'segment': 'dashboard',
+        'segment': 'recruits',
         'players': roster_json
     }
 
@@ -52,7 +52,7 @@ def roster_updates(request):
     updates_json = json.loads(updates_text)
 
     context = {
-        'segment': 'dashboard',
+        'segment': 'roster_updates',
         'updates': updates_json
     }
 

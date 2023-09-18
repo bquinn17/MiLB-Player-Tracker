@@ -5,7 +5,7 @@
 
 
   <div class="col-12 mb-4 py-4">
-      <h1 class="fw-bold mb-0">Pirates 40-man Roster</h1>
+    <h1 class="fw-bold mb-0">Top 30 Pirates Prospects</h1>
   </div>
   <div class="row">
     <div class="col-12">
@@ -26,39 +26,32 @@
               <table class="table align-items-center table-flush">
                 <thead class="thead-light">
                   <tr>
-                    <th class="border-bottom" scope="col">Player Name</th>
-                    <th class="border-bottom" scope="col">Position</th>
-                    <th class="border-bottom" scope="col">Age</th>
-                    <th class="border-bottom" scope="col">Status</th>
-                    <th class="border-bottom" scope="col">Height</th>
-                    <th class="border-bottom" scope="col">Weight</th>
-                    <th class="border-bottom" scope="col">Batting</th>
-                    <th class="border-bottom" scope="col">Throwing</th>
-                    <th class="border-bottom" scope="col">Birthday</th>
-                    <th class="border-bottom" scope="col">Hometown</th>
-                    <th class="border-bottom" scope="col">Highest Level</th>
-                    <th class="border-bottom" scope="col">MLB Years</th>
-                    <th class="border-bottom" scope="col">Stat Years</th>
-                    <th class="border-bottom" scope="col">Draft Info</th>
+                      <th class="border-bottom" scope="col">Rank</th>
+                      <th class="border-bottom" scope="col">Player</th>
+                      <th class="border-bottom" scope="col">Position</th>
+<!--                      <th class="border-bottom" scope="col">Team Logo</th>-->
+                      <th class="border-bottom" scope="col">Team Name</th>
+                      <th class="border-bottom" scope="col">Level</th>
+                      <th class="border-bottom" scope="col">ETA</th>
+                      <th class="border-bottom" scope="col">Age</th>
+                      <th class="border-bottom" scope="col">Height/Weight</th>
+                      <th class="border-bottom" scope="col">Bats</th>
+                      <th class="border-bottom" scope="col">Throws</th>
                   </tr>
                 </thead>
                 <tbody>
                   {% for player in players %}
                   <tr>
-                    <td><a href="{{ player.player_name_link }}">{{ player.player_name }}</a></td>
-                    <td>{{ player.position }}</td>
-                    <td>{{ player.age }}</td>
-                    <td>{{ player.current_status }}</td>
-                    <td>{{ player.height }}</td>
-                    <td>{{ player.weight }}</td>
-                    <td>{{ player.batting_hand }}</td>
-                    <td>{{ player.throwing_hand }}</td>
-                    <td><a href="{{ player.birthday_link }}">{{ player.birthday }}</a></td>
-                    <td><a href="{{ player.hometown_link }}">{{ player.hometown }}</a></td>
-                    <td>{{ player.highest_level_played }}</td>
-                    <td>{{ player.year_in_mlb }}</td>
-                    <td>{{ player.stat_years }}</td>
-                    <td><a href="{{ player.draft_info_link }}">{{ player.draft_info }}</a></td>
+                    <td>{{ player.Rank }}</td>
+                    <td><a href="{{ player.Player_Link }}">{{ player.Player }}</a></td>
+                    <td>{{ player.Position }}</td>
+                    <td>{{ player.Team_Name }}</td>
+                    <td>{{ player.Level }}</td>
+                    <td>{{ player.ETA }}</td>
+                    <td>{{ player.Age }}</td>
+                    <td>{{ player.Height_Weight }}</td>
+                    <td>{{ player.Bats }}</td>
+                    <td>{{ player.Throws }}</td>
                   </tr>
                   {% endfor %}
                 </tbody>
