@@ -29,7 +29,7 @@ def dashboard(request):
     return render(request, 'pages/dashboard/dashboard.html', context)
 
 
-# Dashboard
+# Top Recruits
 def recruits(request):
     with open("data/40_man_roster.json", "r") as file:
         roster_text = ''.join(file.readlines())
@@ -42,6 +42,21 @@ def recruits(request):
     }
 
     return render(request, 'pages/recruits/recruits.html', context)
+
+
+# Roster Updates
+def roster_updates(request):
+    with open("data/roster_updates.json", "r") as file:
+        updates_text = ''.join(file.readlines())
+
+    updates_json = json.loads(updates_text)
+
+    context = {
+        'segment': 'dashboard',
+        'updates': updates_json
+    }
+
+    return render(request, 'pages/roster_updates/roster_updates.html', context)
 
 
 # Pages

@@ -1,0 +1,36 @@
+{% extends 'layouts/base.html' %}
+{% load static %}
+
+{% block content %}
+
+
+  <div class="col-12 mb-4 py-4">
+      <h1 class="fw-bold mb-0">Pirates 40-man Roster</h1>
+  </div>
+
+  {% for update in updates %}
+  <div class="row py-4">
+    <div class="col-12 col-lg-12">
+      <div class="card border-0 shadow">
+        <div class="card-header border-gray-100 d-flex justify-content-between align-items-center">
+          <h2 class="h4 mb-0">Player Name: {{ update.player_name }}</h2>
+          <a href="{{ update.player_url }}"
+            class="btn btn-outline-gray-500 d-inline-flex align-items-center">
+            <svg class="icon icon-xxs me-2" fill="currentColor" viewBox="0 0 20 20"
+              xmlns="http://www.w3.org/2000/svg">
+              <path fill-rule="evenodd"
+                d="M18 10a8 8 0 11-16 0 8 8 0 0116 0zm-8-3a1 1 0 00-.867.5 1 1 0 11-1.731-1A3 3 0 0113 8a3.001 3.001 0 01-2 2.83V11a1 1 0 11-2 0v-1a1 1 0 011-1 1 1 0 100-2zm0 8a1 1 0 100-2 1 1 0 000 2z"
+                clip-rule="evenodd"></path>
+            </svg>
+            View Player
+          </a>
+        </div>
+        <div class="card-body">
+          On date: {{ update.date }} - <b>{{ update.status_update }}</b>
+        </div>
+      </div>
+    </div>
+  </div>
+  {% endfor %}
+
+{% endblock content %}

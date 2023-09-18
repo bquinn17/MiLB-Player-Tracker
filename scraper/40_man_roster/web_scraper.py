@@ -152,15 +152,24 @@ def check_for_updates(new_player_json):
         for key in new_player_obj:
             if new_player_obj[key] != old_player_obj[key]:
                 print("Update found to player data: ")
-                update_message = f"Player: {new_player_obj['player_name']} changed {key} from {old_player_obj[key]} to {new_player_obj[key]} on date: {str(datetime.date.today())}"
+                status_update = f"changed {key} from {old_player_obj[key]} to {new_player_obj[key]}"
+                date = str(datetime.date.today())
+                update_message = f"Player: {new_player_obj['player_name']} {status_update} on date: {date}"
                 print(update_message)
-                updates_list.append(update_message)
+
+                update_json = {
+                    "player_name": new_player_obj['player_name'],
+                    "status_update": status_update,
+                    "date": date,
+                    "player_url": new_player_obj['player_name_link']
+                 }
+                updates_list.append(update_json)
 
     old_updates = []
-    with open("updates.json", "r") as file:
+    with open("roster_updates.json", "r") as file:
         old_updates = json.load(file)
 
-    with open("updates.json", "w+") as file:
+    with open("roster_updates.json", "w+") as file:
         if isinstance(old_updates, list):
             old_updates.extend(updates_list)
         file.write(json.dumps(old_updates))
