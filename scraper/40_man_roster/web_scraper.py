@@ -142,6 +142,8 @@ def check_for_updates(new_player_json):
     with open("top_players.json", "r") as file:
         old_player_json = json.load(file)
 
+    updates_list = []
+
     for i in range(len(new_player_json)):
         old_player_obj = old_player_json[i]
         new_player_obj = new_player_json[i]
@@ -149,8 +151,12 @@ def check_for_updates(new_player_json):
         for key in new_player_obj:
             if new_player_obj[key] != old_player_obj[key]:
                 print("Update found to player data: ")
-                print(f"Player: {new_player_obj['player_name']} changed "
-                      f"{key} from {old_player_obj[key]} to {new_player_obj[key]}")
+                update_message = f"Player: {new_player_obj['player_name']} changed {key} from {old_player_obj[key]} to {new_player_obj[key]}"
+                print(update_message)
+                updates_list.append(update_message)
+
+    with open("updates.json", "w+") as file:
+        file.write(json.dumps(updates_list))
 
 
 if __name__ == '__main__':
