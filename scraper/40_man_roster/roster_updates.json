@@ -1,32 +1,32 @@
 [
-    {
-        "player_name": "Cody Bolton",
-        "status_update": "changed current_status from Active to Minors",
-        "date": "2023-09-17",
-        "player_url": "https://www.thebaseballcube.com/content/player/209879/"
-    },
-    {
-        "player_name": "Quinn Priester",
-        "status_update": "changed current_status from Minors to Active",
-        "date": "2023-09-17",
-        "player_url": "https://www.thebaseballcube.com/content/player/222134/"
-    },
-    {
-        "player_name": "Henry Davis",
-        "status_update": "changed current_status from IL-10 to Active",
-        "date": "2023-09-17",
-        "player_url": "https://www.thebaseballcube.com/content/player/221001/"
-    },
-    {
-        "player_name": "Vinny Capra",
-        "status_update": "changed current_status from Active to Minor",
-        "date": "2023-09-17",
-        "player_url": "https://www.thebaseballcube.com/content/player/207142/"
-    },
-    {
-        "player_name": "Bryan Reynolds",
-        "status_update": "changed height from 6-3 to 6-2",
-        "date": "2023-09-17",
-        "player_url": "https://www.thebaseballcube.com/content/player/185067/"
-    }
+  {
+    "player_name": "Cody Bolton",
+    "status_update": "changed current_status from Active to Minors",
+    "date": "2023-09-17",
+    "player_url": "https://www.thebaseballcube.com/content/player/209879/"
+  },
+  {
+    "player_name": "Quinn Priester",
+    "status_update": "changed current_status from Minors to Active",
+    "date": "2023-09-17",
+    "player_url": "https://www.thebaseballcube.com/content/player/222134/"
+  },
+  {
+    "player_name": "Henry Davis",
+    "status_update": "changed current_status from IL-10 to Active",
+    "date": "2023-09-17",
+    "player_url": "https://www.thebaseballcube.com/content/player/221001/"
+  },
+  {
+    "player_name": "Vinny Capra",
+    "status_update": "changed current_status from Active to Minor",
+    "date": "2023-09-17",
+    "player_url": "https://www.thebaseballcube.com/content/player/207142/"
+  },
+  {
+    "player_name": "Bryan Reynolds",
+    "status_update": "changed height from 6-3 to 6-2",
+    "date": "2023-09-17",
+    "player_url": "https://www.thebaseballcube.com/content/player/185067/"
+  }
 ]
