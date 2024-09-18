@@ -1,0 +1,64 @@
+---
+layout: base
+title: "Top 30 Pirates Prospects"
+---
+
+<div class="col-12 mb-4 py-4">
+  <h1 class="fw-bold mb-0">Top 30 Pirates Prospects</h1>
+  <p>Here is an up to date list of players in the Pirate's Top Recruits. Again, you can click on their names for stats and more details. You can also scroll left and right if you can't see the whole table.</p>
+</div>
+
+<div class="row">
+  <div class="col-12">
+    <div class="row">
+      <div class="col-12 mb-4">
+        <div class="card border-0 shadow">
+          <div class="card-header">
+            <div class="row align-items-center">
+              <div class="col">
+                <h2 class="fs-5 fw-bold mb-0">Total Players: {{ site.data.prospects | size }}</h2>
+              </div>
+              <div class="col text-end">
+                <a href="https://www.thebaseballcube.com/content/current_rosters/23/" class="btn btn-sm btn-primary">Source</a>
+              </div>
+            </div>
+          </div>
+          <div class="table-responsive">
+            <table class="table align-items-center table-flush">
+              <thead class="thead-light">
+                <tr>
+                  <th class="border-bottom" scope="col">Rank</th>
+                  <th class="border-bottom" scope="col">Player</th>
+                  <th class="border-bottom" scope="col">Position</th>
+                  <th class="border-bottom" scope="col">Team Name</th>
+                  <th class="border-bottom" scope="col">Level</th>
+                  <th class="border-bottom" scope="col">ETA</th>
+                  <th class="border-bottom" scope="col">Age</th>
+                  <th class="border-bottom" scope="col">Height/Weight</th>
+                  <th class="border-bottom" scope="col">Bats</th>
+                  <th class="border-bottom" scope="col">Throws</th>
+                </tr>
+              </thead>
+              <tbody>
+                {% for player in site.data.prospects %}
+                <tr>
+                  <td>{{ player.Rank }}</td>
+                  <td><a href="{{ player.Player_Link }}">{{ player.Player }}</a></td>
+                  <td>{{ player.Position }}</td>
+                  <td>{{ player.Team_Name }}</td>
+                  <td>{{ player.Level }}</td>
+                  <td>{{ player.ETA }}</td>
+                  <td>{{ player.Age }}</td>
+                  <td>{{ player.Height_Weight }}</td>
+                  <td>{{ player.Bats }}</td>
+                  <td>{{ player.Throws }}</td>
+                </tr>
+                {% endfor %}
+              </tbody>
+            </table>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,39 @@
+---
+---
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  {% include head.html %}
+</head>
+
+<body>
+
+  <!-- Navigation -->
+  {% include nav.html %}
+
+  <!-- Sidebar -->
+  {% include sidebar.html %}
+
+  <main class="content">
+
+    <!-- Header / Navigation -->
+    {% include navigation.html %}
+
+    <!-- Main content -->
+    {{ content }}
+
+    <!-- Theme settings -->
+    {% include theme-settings.html %}
+
+    <!-- Footer -->
+    {% include footer.html %}
+
+  </main>
+
+  <!-- Scripts -->
+  {% include scripts.html %}
+
+</body>
+
+</html>
