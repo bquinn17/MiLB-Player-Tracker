@@ -1,32 +1,3884 @@
 [
-  {
-    "player_name": "Cody Bolton",
-    "status_update": "changed current_status from Active to Minors",
-    "date": "2023-09-17",
-    "player_url": "https://www.thebaseballcube.com/content/player/209879/"
-  },
-  {
-    "player_name": "Quinn Priester",
-    "status_update": "changed current_status from Minors to Active",
-    "date": "2023-09-17",
-    "player_url": "https://www.thebaseballcube.com/content/player/222134/"
-  },
-  {
-    "player_name": "Henry Davis",
-    "status_update": "changed current_status from IL-10 to Active",
-    "date": "2023-09-17",
-    "player_url": "https://www.thebaseballcube.com/content/player/221001/"
-  },
-  {
-    "player_name": "Vinny Capra",
-    "status_update": "changed current_status from Active to Minor",
-    "date": "2023-09-17",
-    "player_url": "https://www.thebaseballcube.com/content/player/207142/"
-  },
-  {
-    "player_name": "Bryan Reynolds",
-    "status_update": "changed height from 6-3 to 6-2",
-    "date": "2023-09-17",
-    "player_url": "https://www.thebaseballcube.com/content/player/185067/"
-  }
+    {
+        "player_name": "Andrew McCutchen",
+        "status_update": "changed draft_info from 2016- 15- 444-SDN to 2005-  1-  11-PIT",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/54136/"
+    },
+    {
+        "player_name": "Andrew McCutchen",
+        "status_update": "changed draft_info_link from https://www.thebaseballcube.com/content/draft_year/2016/ to https://www.thebaseballcube.com/content/draft_year/2005/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/54136/"
+    },
+    {
+        "player_name": "Andrew McCutchen",
+        "status_update": "changed stat_years from 2016-2023 to 2005-2024",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/54136/"
+    },
+    {
+        "player_name": "Andrew McCutchen",
+        "status_update": "changed year_in_mlb from 2022-2023 to 2009-2024",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/54136/"
+    },
+    {
+        "player_name": "Andrew McCutchen",
+        "status_update": "changed hometown from Chicago,IL to Fort Meade,FL",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/54136/"
+    },
+    {
+        "player_name": "Andrew McCutchen",
+        "status_update": "changed hometown_link from https://www.thebaseballcube.com/content/city/131/ to https://www.thebaseballcube.com/content/city/869/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/54136/"
+    },
+    {
+        "player_name": "Andrew McCutchen",
+        "status_update": "changed birthday from 1998-07-29 to 1986-10-10",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/54136/"
+    },
+    {
+        "player_name": "Andrew McCutchen",
+        "status_update": "changed birthday_link from https://www.thebaseballcube.com/content/box_Date/19980729/ to https://www.thebaseballcube.com/content/box_Date/19861010/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/54136/"
+    },
+    {
+        "player_name": "Andrew McCutchen",
+        "status_update": "changed throwing_hand from L to R",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/54136/"
+    },
+    {
+        "player_name": "Andrew McCutchen",
+        "status_update": "changed batting_hand from L to R",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/54136/"
+    },
+    {
+        "player_name": "Andrew McCutchen",
+        "status_update": "changed weight from 215 to 190",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/54136/"
+    },
+    {
+        "player_name": "Andrew McCutchen",
+        "status_update": "changed height from 6-2 to 5-10",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/54136/"
+    },
+    {
+        "player_name": "Andrew McCutchen",
+        "status_update": "changed age from 24 to 37",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/54136/"
+    },
+    {
+        "player_name": "Andrew McCutchen",
+        "status_update": "changed position from lf-rf to dh-lf",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/54136/"
+    },
+    {
+        "player_name": "Andrew McCutchen",
+        "status_update": "changed player_name from Jack Suwinski to Andrew McCutchen",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/54136/"
+    },
+    {
+        "player_name": "Andrew McCutchen",
+        "status_update": "changed player_name_link from https://www.thebaseballcube.com/content/player/204037/ to https://www.thebaseballcube.com/content/player/54136/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/54136/"
+    },
+    {
+        "player_name": "Michael A. Taylor",
+        "status_update": "changed draft_info from 2017-  4- 122-NYA to 2009-  6- 172-WAS",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/148579/"
+    },
+    {
+        "player_name": "Michael A. Taylor",
+        "status_update": "changed draft_info_link from https://www.thebaseballcube.com/content/draft_year/2017/ to https://www.thebaseballcube.com/content/draft_year/2009/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/148579/"
+    },
+    {
+        "player_name": "Michael A. Taylor",
+        "status_update": "changed stat_years from 2017-2023 to 2010-2024",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/148579/"
+    },
+    {
+        "player_name": "Michael A. Taylor",
+        "status_update": "changed year_in_mlb from 2022-2023 to 2014-2024",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/148579/"
+    },
+    {
+        "player_name": "Michael A. Taylor",
+        "status_update": "changed hometown from Dallas,TX to Fort Lauderdale,FL",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/148579/"
+    },
+    {
+        "player_name": "Michael A. Taylor",
+        "status_update": "changed hometown_link from https://www.thebaseballcube.com/content/city/41/ to https://www.thebaseballcube.com/content/city/492/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/148579/"
+    },
+    {
+        "player_name": "Michael A. Taylor",
+        "status_update": "changed birthday from 1999-04-30 to 1991-03-26",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/148579/"
+    },
+    {
+        "player_name": "Michael A. Taylor",
+        "status_update": "changed birthday_link from https://www.thebaseballcube.com/content/box_Date/19990430/ to https://www.thebaseballcube.com/content/box_Date/19910326/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/148579/"
+    },
+    {
+        "player_name": "Michael A. Taylor",
+        "status_update": "changed batting_hand from L to R",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/148579/"
+    },
+    {
+        "player_name": "Michael A. Taylor",
+        "status_update": "changed weight from 230 to 215",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/148579/"
+    },
+    {
+        "player_name": "Michael A. Taylor",
+        "status_update": "changed height from 6-0 to 6-4",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/148579/"
+    },
+    {
+        "player_name": "Michael A. Taylor",
+        "status_update": "changed current_status from Minors to Active",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/148579/"
+    },
+    {
+        "player_name": "Michael A. Taylor",
+        "status_update": "changed age from 24 to 33",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/148579/"
+    },
+    {
+        "player_name": "Michael A. Taylor",
+        "status_update": "changed position from lf-rf to cf",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/148579/"
+    },
+    {
+        "player_name": "Michael A. Taylor",
+        "status_update": "changed player_name from Canaan Smith-Njigba to Michael A. Taylor",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/148579/"
+    },
+    {
+        "player_name": "Michael A. Taylor",
+        "status_update": "changed player_name_link from https://www.thebaseballcube.com/content/player/209860/ to https://www.thebaseballcube.com/content/player/148579/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/148579/"
+    },
+    {
+        "player_name": "Jack Suwinski",
+        "status_update": "changed draft_info from 2016-  2-  59-SFN to 2016- 15- 444-SDN",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/204037/"
+    },
+    {
+        "player_name": "Jack Suwinski",
+        "status_update": "changed stat_years from 2014-2023 to 2016-2024",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/204037/"
+    },
+    {
+        "player_name": "Jack Suwinski",
+        "status_update": "changed year_in_mlb from 2019-2023 to 2022-2024",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/204037/"
+    },
+    {
+        "player_name": "Jack Suwinski",
+        "status_update": "changed hometown from Baltimore,MD to Chicago,IL",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/204037/"
+    },
+    {
+        "player_name": "Jack Suwinski",
+        "status_update": "changed hometown_link from https://www.thebaseballcube.com/content/city/103/ to https://www.thebaseballcube.com/content/city/131/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/204037/"
+    },
+    {
+        "player_name": "Jack Suwinski",
+        "status_update": "changed birthday from 1995-01-27 to 1998-07-29",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/204037/"
+    },
+    {
+        "player_name": "Jack Suwinski",
+        "status_update": "changed birthday_link from https://www.thebaseballcube.com/content/box_Date/19950127/ to https://www.thebaseballcube.com/content/box_Date/19980729/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/204037/"
+    },
+    {
+        "player_name": "Jack Suwinski",
+        "status_update": "changed throwing_hand from R to L",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/204037/"
+    },
+    {
+        "player_name": "Jack Suwinski",
+        "status_update": "changed batting_hand from B to L",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/204037/"
+    },
+    {
+        "player_name": "Jack Suwinski",
+        "status_update": "changed weight from 205 to 215",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/204037/"
+    },
+    {
+        "player_name": "Jack Suwinski",
+        "status_update": "changed current_status from Active to Minors",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/204037/"
+    },
+    {
+        "player_name": "Jack Suwinski",
+        "status_update": "changed age from 28 to 26",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/204037/"
+    },
+    {
+        "player_name": "Jack Suwinski",
+        "status_update": "changed position from cf to lf-rf",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/204037/"
+    },
+    {
+        "player_name": "Jack Suwinski",
+        "status_update": "changed player_name from Bryan Reynolds to Jack Suwinski",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/204037/"
+    },
+    {
+        "player_name": "Jack Suwinski",
+        "status_update": "changed player_name_link from https://www.thebaseballcube.com/content/player/185067/ to https://www.thebaseballcube.com/content/player/204037/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/204037/"
+    },
+    {
+        "player_name": "Bryan Reynolds",
+        "status_update": "changed draft_info from 2016-  4- 132-TOR to 2016-  2-  59-SFN",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/185067/"
+    },
+    {
+        "player_name": "Bryan Reynolds",
+        "status_update": "changed stat_years from 2014-2023 to 2014-2024",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/185067/"
+    },
+    {
+        "player_name": "Bryan Reynolds",
+        "status_update": "changed year_in_mlb from 2021-2023 to 2019-2024",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/185067/"
+    },
+    {
+        "player_name": "Bryan Reynolds",
+        "status_update": "changed hometown from Brooklyn,NY to Baltimore,MD",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/185067/"
+    },
+    {
+        "player_name": "Bryan Reynolds",
+        "status_update": "changed hometown_link from https://www.thebaseballcube.com/content/city/22/ to https://www.thebaseballcube.com/content/city/103/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/185067/"
+    },
+    {
+        "player_name": "Bryan Reynolds",
+        "status_update": "changed birthday from 1995-07-30 to 1995-01-27",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/185067/"
+    },
+    {
+        "player_name": "Bryan Reynolds",
+        "status_update": "changed birthday_link from https://www.thebaseballcube.com/content/box_Date/19950730/ to https://www.thebaseballcube.com/content/box_Date/19950127/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/185067/"
+    },
+    {
+        "player_name": "Bryan Reynolds",
+        "status_update": "changed batting_hand from L to B",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/185067/"
+    },
+    {
+        "player_name": "Bryan Reynolds",
+        "status_update": "changed weight from 200 to 205",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/185067/"
+    },
+    {
+        "player_name": "Bryan Reynolds",
+        "status_update": "changed height from 5-11 to 6-2",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/185067/"
+    },
+    {
+        "player_name": "Bryan Reynolds",
+        "status_update": "changed age from 27 to 29",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/185067/"
+    },
+    {
+        "player_name": "Bryan Reynolds",
+        "status_update": "changed position from lf-rf to cf",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/185067/"
+    },
+    {
+        "player_name": "Bryan Reynolds",
+        "status_update": "changed player_name from Josh Palacios to Bryan Reynolds",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/185067/"
+    },
+    {
+        "player_name": "Bryan Reynolds",
+        "status_update": "changed player_name_link from https://www.thebaseballcube.com/content/player/188151/ to https://www.thebaseballcube.com/content/player/185067/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/185067/"
+    },
+    {
+        "player_name": "Joshua Palacios",
+        "status_update": "changed draft_info from 2005-  1-  11-PIT to 2016-  4- 132-TOR",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/188151/"
+    },
+    {
+        "player_name": "Joshua Palacios",
+        "status_update": "changed draft_info_link from https://www.thebaseballcube.com/content/draft_year/2005/ to https://www.thebaseballcube.com/content/draft_year/2016/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/188151/"
+    },
+    {
+        "player_name": "Joshua Palacios",
+        "status_update": "changed stat_years from 2005-2023 to 2014-2024",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/188151/"
+    },
+    {
+        "player_name": "Joshua Palacios",
+        "status_update": "changed year_in_mlb from 2009-2023 to 2021-2024",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/188151/"
+    },
+    {
+        "player_name": "Joshua Palacios",
+        "status_update": "changed hometown from Fort Meade,FL to Brooklyn,NY",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/188151/"
+    },
+    {
+        "player_name": "Joshua Palacios",
+        "status_update": "changed hometown_link from https://www.thebaseballcube.com/content/city/869/ to https://www.thebaseballcube.com/content/city/22/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/188151/"
+    },
+    {
+        "player_name": "Joshua Palacios",
+        "status_update": "changed birthday from 1986-10-10 to 1995-07-30",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/188151/"
+    },
+    {
+        "player_name": "Joshua Palacios",
+        "status_update": "changed birthday_link from https://www.thebaseballcube.com/content/box_Date/19861010/ to https://www.thebaseballcube.com/content/box_Date/19950730/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/188151/"
+    },
+    {
+        "player_name": "Joshua Palacios",
+        "status_update": "changed batting_hand from R to L",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/188151/"
+    },
+    {
+        "player_name": "Joshua Palacios",
+        "status_update": "changed weight from 195 to 200",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/188151/"
+    },
+    {
+        "player_name": "Joshua Palacios",
+        "status_update": "changed height from 5-11 to 6-0",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/188151/"
+    },
+    {
+        "player_name": "Joshua Palacios",
+        "status_update": "changed current_status from IL-10 to Minors",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/188151/"
+    },
+    {
+        "player_name": "Joshua Palacios",
+        "status_update": "changed age from 36 to 29",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/188151/"
+    },
+    {
+        "player_name": "Joshua Palacios",
+        "status_update": "changed position from lf to rf-lf",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/188151/"
+    },
+    {
+        "player_name": "Joshua Palacios",
+        "status_update": "changed player_name from Andrew McCutchen to Joshua Palacios",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/188151/"
+    },
+    {
+        "player_name": "Joshua Palacios",
+        "status_update": "changed player_name_link from https://www.thebaseballcube.com/content/player/54136/ to https://www.thebaseballcube.com/content/player/188151/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/188151/"
+    },
+    {
+        "player_name": "Connor Joe",
+        "status_update": "changed draft_info from 2016-    UDFA-SDN to 2014-  1-  39-PIT",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/168558/"
+    },
+    {
+        "player_name": "Connor Joe",
+        "status_update": "changed draft_info_link from https://www.thebaseballcube.com/content/udfa_class/2016~24/ to https://www.thebaseballcube.com/content/draft_year/2014/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/168558/"
+    },
+    {
+        "player_name": "Connor Joe",
+        "status_update": "changed stat_years from 2017-2023 to 2012-2024",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/168558/"
+    },
+    {
+        "player_name": "Connor Joe",
+        "status_update": "changed year_in_mlb from 2021-2023 to 2019-2024",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/168558/"
+    },
+    {
+        "player_name": "Connor Joe",
+        "status_update": "changed hometown from Tucupita,VZ to San Diego,CA",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/168558/"
+    },
+    {
+        "player_name": "Connor Joe",
+        "status_update": "changed hometown_link from https://www.thebaseballcube.com/content/city/14077/ to https://www.thebaseballcube.com/content/city/320/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/168558/"
+    },
+    {
+        "player_name": "Connor Joe",
+        "status_update": "changed birthday from 1999-09-16 to 1992-08-16",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/168558/"
+    },
+    {
+        "player_name": "Connor Joe",
+        "status_update": "changed birthday_link from https://www.thebaseballcube.com/content/box_Date/19990916/ to https://www.thebaseballcube.com/content/box_Date/19920816/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/168558/"
+    },
+    {
+        "player_name": "Connor Joe",
+        "status_update": "changed batting_hand from L to R",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/168558/"
+    },
+    {
+        "player_name": "Connor Joe",
+        "status_update": "changed weight from 180 to 205",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/168558/"
+    },
+    {
+        "player_name": "Connor Joe",
+        "status_update": "changed current_status from IL-60 to Active",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/168558/"
+    },
+    {
+        "player_name": "Connor Joe",
+        "status_update": "changed age from 23 to 31",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/168558/"
+    },
+    {
+        "player_name": "Connor Joe",
+        "status_update": "changed position from lf-2b to lf-1b",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/168558/"
+    },
+    {
+        "player_name": "Connor Joe",
+        "status_update": "changed player_name from Tucupita Marcano to Connor Joe",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/168558/"
+    },
+    {
+        "player_name": "Connor Joe",
+        "status_update": "changed player_name_link from https://www.thebaseballcube.com/content/player/210884/ to https://www.thebaseballcube.com/content/player/168558/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/168558/"
+    },
+    {
+        "player_name": "Bryan De La Cruz",
+        "status_update": "changed draft_info from 2014-  1-  39-PIT to 2013-    UDFA-HOU",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/189804/"
+    },
+    {
+        "player_name": "Bryan De La Cruz",
+        "status_update": "changed draft_info_link from https://www.thebaseballcube.com/content/draft_year/2014/ to https://www.thebaseballcube.com/content/udfa_class/2013~13/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/189804/"
+    },
+    {
+        "player_name": "Bryan De La Cruz",
+        "status_update": "changed stat_years from 2012-2023 to 2014-2024",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/189804/"
+    },
+    {
+        "player_name": "Bryan De La Cruz",
+        "status_update": "changed year_in_mlb from 2019-2023 to 2021-2024",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/189804/"
+    },
+    {
+        "player_name": "Bryan De La Cruz",
+        "status_update": "changed hometown from San Diego,CA to Santo Domingo Este,DR",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/189804/"
+    },
+    {
+        "player_name": "Bryan De La Cruz",
+        "status_update": "changed hometown_link from https://www.thebaseballcube.com/content/city/320/ to https://www.thebaseballcube.com/content/city/21455/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/189804/"
+    },
+    {
+        "player_name": "Bryan De La Cruz",
+        "status_update": "changed birthday from 1992-08-16 to 1996-12-16",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/189804/"
+    },
+    {
+        "player_name": "Bryan De La Cruz",
+        "status_update": "changed birthday_link from https://www.thebaseballcube.com/content/box_Date/19920816/ to https://www.thebaseballcube.com/content/box_Date/19961216/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/189804/"
+    },
+    {
+        "player_name": "Bryan De La Cruz",
+        "status_update": "changed weight from 205 to 175",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/189804/"
+    },
+    {
+        "player_name": "Bryan De La Cruz",
+        "status_update": "changed height from 6-0 to 6-2",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/189804/"
+    },
+    {
+        "player_name": "Bryan De La Cruz",
+        "status_update": "changed age from 30 to 27",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/189804/"
+    },
+    {
+        "player_name": "Bryan De La Cruz",
+        "status_update": "changed position from lf-1b to lf",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/189804/"
+    },
+    {
+        "player_name": "Bryan De La Cruz",
+        "status_update": "changed player_name from Connor Joe to Bryan De La Cruz",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/189804/"
+    },
+    {
+        "player_name": "Bryan De La Cruz",
+        "status_update": "changed player_name_link from https://www.thebaseballcube.com/content/player/168558/ to https://www.thebaseballcube.com/content/player/189804/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/189804/"
+    },
+    {
+        "player_name": "Henry Davis",
+        "status_update": "changed draft_info from 2011-    UDFA-NYA to 2021-  1-   1-PIT",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/221001/"
+    },
+    {
+        "player_name": "Henry Davis",
+        "status_update": "changed draft_info_link from https://www.thebaseballcube.com/content/udfa_class/2011~20/ to https://www.thebaseballcube.com/content/draft_year/2021/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/221001/"
+    },
+    {
+        "player_name": "Henry Davis",
+        "status_update": "changed stat_years from 2012-2023 to 2019-2024",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/221001/"
+    },
+    {
+        "player_name": "Henry Davis",
+        "status_update": "changed year_in_mlb from 2017-2023 to 2023-2024",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/221001/"
+    },
+    {
+        "player_name": "Henry Davis",
+        "status_update": "changed hometown from San Cristobal,DR to Bedford,NY",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/221001/"
+    },
+    {
+        "player_name": "Henry Davis",
+        "status_update": "changed hometown_link from https://www.thebaseballcube.com/content/city/319/ to https://www.thebaseballcube.com/content/city/13120/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/221001/"
+    },
+    {
+        "player_name": "Henry Davis",
+        "status_update": "changed birthday from 1995-03-02 to 1999-09-21",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/221001/"
+    },
+    {
+        "player_name": "Henry Davis",
+        "status_update": "changed birthday_link from https://www.thebaseballcube.com/content/box_Date/19950302/ to https://www.thebaseballcube.com/content/box_Date/19990921/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/221001/"
+    },
+    {
+        "player_name": "Henry Davis",
+        "status_update": "changed weight from 211 to 210",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/221001/"
+    },
+    {
+        "player_name": "Henry Davis",
+        "status_update": "changed current_status from Active to IL-10",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/221001/"
+    },
+    {
+        "player_name": "Henry Davis",
+        "status_update": "changed age from 28 to 24",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/221001/"
+    },
+    {
+        "player_name": "Henry Davis",
+        "status_update": "changed position from lf to rf-c",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/221001/"
+    },
+    {
+        "player_name": "Henry Davis",
+        "status_update": "changed player_name from Miguel Andujar to Henry Davis",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/221001/"
+    },
+    {
+        "player_name": "Henry Davis",
+        "status_update": "changed player_name_link from https://www.thebaseballcube.com/content/player/171547/ to https://www.thebaseballcube.com/content/player/221001/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/221001/"
+    },
+    {
+        "player_name": "Billy Cook",
+        "status_update": "changed draft_info from 2020-  1-  37-TBA to 2021- 10- 287-BAL",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/213128/"
+    },
+    {
+        "player_name": "Billy Cook",
+        "status_update": "changed draft_info_link from https://www.thebaseballcube.com/content/draft_year/2020/ to https://www.thebaseballcube.com/content/draft_year/2021/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/213128/"
+    },
+    {
+        "player_name": "Billy Cook",
+        "status_update": "changed stat_years from 2018-2023 to 2018-2024",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/213128/"
+    },
+    {
+        "player_name": "Billy Cook",
+        "status_update": "changed year_in_mlb from 2023-2023 to 2024-2024",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/213128/"
+    },
+    {
+        "player_name": "Billy Cook",
+        "status_update": "changed hometown from San Diego,CA to Layton,UT",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/213128/"
+    },
+    {
+        "player_name": "Billy Cook",
+        "status_update": "changed hometown_link from https://www.thebaseballcube.com/content/city/320/ to https://www.thebaseballcube.com/content/city/4765/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/213128/"
+    },
+    {
+        "player_name": "Billy Cook",
+        "status_update": "changed birthday from 1999-03-12 to 1999-01-07",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/213128/"
+    },
+    {
+        "player_name": "Billy Cook",
+        "status_update": "changed birthday_link from https://www.thebaseballcube.com/content/box_Date/19990312/ to https://www.thebaseballcube.com/content/box_Date/19990107/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/213128/"
+    },
+    {
+        "player_name": "Billy Cook",
+        "status_update": "changed weight from 180 to 205",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/213128/"
+    },
+    {
+        "player_name": "Billy Cook",
+        "status_update": "changed height from 6-2 to 5-11",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/213128/"
+    },
+    {
+        "player_name": "Billy Cook",
+        "status_update": "changed age from 24 to 25",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/213128/"
+    },
+    {
+        "player_name": "Billy Cook",
+        "status_update": "changed position from ss to rf-2b",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/213128/"
+    },
+    {
+        "player_name": "Billy Cook",
+        "status_update": "changed player_name from Alika Williams to Billy Cook",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/213128/"
+    },
+    {
+        "player_name": "Billy Cook",
+        "status_update": "changed player_name_link from https://www.thebaseballcube.com/content/player/210132/ to https://www.thebaseballcube.com/content/player/213128/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/213128/"
+    },
+    {
+        "player_name": "Nick Yorke",
+        "status_update": "changed draft_info from 2019-  2-  72-PIT to 2020-  1-  17-BOS",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/228876/"
+    },
+    {
+        "player_name": "Nick Yorke",
+        "status_update": "changed draft_info_link from https://www.thebaseballcube.com/content/draft_year/2019/ to https://www.thebaseballcube.com/content/draft_year/2020/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/228876/"
+    },
+    {
+        "player_name": "Nick Yorke",
+        "status_update": "changed stat_years from 2017-2023 to 2021-2024",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/228876/"
+    },
+    {
+        "player_name": "Nick Yorke",
+        "status_update": "changed year_in_mlb from 2023-2023 to 2024-2024",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/228876/"
+    },
+    {
+        "player_name": "Nick Yorke",
+        "status_update": "changed hometown from Nashua,NH to Newport Beach,CA",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/228876/"
+    },
+    {
+        "player_name": "Nick Yorke",
+        "status_update": "changed hometown_link from https://www.thebaseballcube.com/content/city/1555/ to https://www.thebaseballcube.com/content/city/1563/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/228876/"
+    },
+    {
+        "player_name": "Nick Yorke",
+        "status_update": "changed birthday from 1998-02-08 to 2002-04-02",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/228876/"
+    },
+    {
+        "player_name": "Nick Yorke",
+        "status_update": "changed birthday_link from https://www.thebaseballcube.com/content/box_Date/19980208/ to https://www.thebaseballcube.com/content/box_Date/20020402/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/228876/"
+    },
+    {
+        "player_name": "Nick Yorke",
+        "status_update": "changed weight from 212 to 200",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/228876/"
+    },
+    {
+        "player_name": "Nick Yorke",
+        "status_update": "changed height from 6-3 to 6-0",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/228876/"
+    },
+    {
+        "player_name": "Nick Yorke",
+        "status_update": "changed age from 25 to 22",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/228876/"
+    },
+    {
+        "player_name": "Nick Yorke",
+        "status_update": "changed position from 3b-ss to 2b",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/228876/"
+    },
+    {
+        "player_name": "Nick Yorke",
+        "status_update": "changed player_name from Jared Triolo to Nick Yorke",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/228876/"
+    },
+    {
+        "player_name": "Nick Yorke",
+        "status_update": "changed player_name_link from https://www.thebaseballcube.com/content/player/206864/ to https://www.thebaseballcube.com/content/player/228876/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/228876/"
+    },
+    {
+        "player_name": "Alika Williams",
+        "status_update": "changed draft_info from 2018-  4- 113-OAK to 2020-  1-  37-TBA",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/210132/"
+    },
+    {
+        "player_name": "Alika Williams",
+        "status_update": "changed draft_info_link from https://www.thebaseballcube.com/content/draft_year/2018/ to https://www.thebaseballcube.com/content/draft_year/2020/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/210132/"
+    },
+    {
+        "player_name": "Alika Williams",
+        "status_update": "changed stat_years from 2016-2023 to 2018-2024",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/210132/"
+    },
+    {
+        "player_name": "Alika Williams",
+        "status_update": "changed year_in_mlb from 2021-2023 to 2023-2024",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/210132/"
+    },
+    {
+        "player_name": "Alika Williams",
+        "status_update": "changed hometown from Chula Vista,CA to San Diego,CA",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/210132/"
+    },
+    {
+        "player_name": "Alika Williams",
+        "status_update": "changed hometown_link from https://www.thebaseballcube.com/content/city/1234/ to https://www.thebaseballcube.com/content/city/320/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/210132/"
+    },
+    {
+        "player_name": "Alika Williams",
+        "status_update": "changed birthday from 1996-09-13 to 1999-03-12",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/210132/"
+    },
+    {
+        "player_name": "Alika Williams",
+        "status_update": "changed birthday_link from https://www.thebaseballcube.com/content/box_Date/19960913/ to https://www.thebaseballcube.com/content/box_Date/19990312/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/210132/"
+    },
+    {
+        "player_name": "Alika Williams",
+        "status_update": "changed throwing_hand from L to R",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/210132/"
+    },
+    {
+        "player_name": "Alika Williams",
+        "status_update": "changed batting_hand from L to R",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/210132/"
+    },
+    {
+        "player_name": "Alika Williams",
+        "status_update": "changed weight from 190 to 180",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/210132/"
+    },
+    {
+        "player_name": "Alika Williams",
+        "status_update": "changed height from 5-11 to 6-1",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/210132/"
+    },
+    {
+        "player_name": "Alika Williams",
+        "status_update": "changed current_status from Active to Minors",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/210132/"
+    },
+    {
+        "player_name": "Alika Williams",
+        "status_update": "changed age from 26 to 25",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/210132/"
+    },
+    {
+        "player_name": "Alika Williams",
+        "status_update": "changed position from 1b to ss-2b",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/210132/"
+    },
+    {
+        "player_name": "Alika Williams",
+        "status_update": "changed player_name from Alfonso Rivas to Alika Williams",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/210132/"
+    },
+    {
+        "player_name": "Alika Williams",
+        "status_update": "changed player_name_link from https://www.thebaseballcube.com/content/player/202443/ to https://www.thebaseballcube.com/content/player/210132/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/210132/"
+    },
+    {
+        "player_name": "Jared Triolo",
+        "status_update": "changed draft_info from 2017-    UDFA-ARI to 2019-  2-  72-PIT",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/206864/"
+    },
+    {
+        "player_name": "Jared Triolo",
+        "status_update": "changed draft_info_link from https://www.thebaseballcube.com/content/udfa_class/2017~2/ to https://www.thebaseballcube.com/content/draft_year/2019/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/206864/"
+    },
+    {
+        "player_name": "Jared Triolo",
+        "status_update": "changed stat_years from 2018-2023 to 2017-2024",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/206864/"
+    },
+    {
+        "player_name": "Jared Triolo",
+        "status_update": "changed year_in_mlb from 2022-2023 to 2023-2024",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/206864/"
+    },
+    {
+        "player_name": "Jared Triolo",
+        "status_update": "changed hometown from Higuey,DR to Nashua,NH",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/206864/"
+    },
+    {
+        "player_name": "Jared Triolo",
+        "status_update": "changed hometown_link from https://www.thebaseballcube.com/content/city/3715/ to https://www.thebaseballcube.com/content/city/1555/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/206864/"
+    },
+    {
+        "player_name": "Jared Triolo",
+        "status_update": "changed birthday from 2000-12-31 to 1998-02-08",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/206864/"
+    },
+    {
+        "player_name": "Jared Triolo",
+        "status_update": "changed birthday_link from https://www.thebaseballcube.com/content/box_Date/20001231/ to https://www.thebaseballcube.com/content/box_Date/19980208/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/206864/"
+    },
+    {
+        "player_name": "Jared Triolo",
+        "status_update": "changed weight from 200 to 210",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/206864/"
+    },
+    {
+        "player_name": "Jared Triolo",
+        "status_update": "changed height from 6-2 to 6-3",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/206864/"
+    },
+    {
+        "player_name": "Jared Triolo",
+        "status_update": "changed age from 22 to 25",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/206864/"
+    },
+    {
+        "player_name": "Jared Triolo",
+        "status_update": "changed position from ss-2b to 3b-2b",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/206864/"
+    },
+    {
+        "player_name": "Jared Triolo",
+        "status_update": "changed player_name from Liover Peguero to Jared Triolo",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/206864/"
+    },
+    {
+        "player_name": "Jared Triolo",
+        "status_update": "changed player_name_link from https://www.thebaseballcube.com/content/player/216352/ to https://www.thebaseballcube.com/content/player/206864/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/206864/"
+    },
+    {
+        "player_name": "Rowdy Tellez",
+        "status_update": "changed draft_info from 2015-  1-  32-PIT to 2013- 30- 895-TOR",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/180759/"
+    },
+    {
+        "player_name": "Rowdy Tellez",
+        "status_update": "changed draft_info_link from https://www.thebaseballcube.com/content/draft_year/2015/ to https://www.thebaseballcube.com/content/draft_year/2013/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/180759/"
+    },
+    {
+        "player_name": "Rowdy Tellez",
+        "status_update": "changed stat_years from 2015-2023 to 2013-2024",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/180759/"
+    },
+    {
+        "player_name": "Rowdy Tellez",
+        "status_update": "changed year_in_mlb from 2020-2023 to 2018-2024",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/180759/"
+    },
+    {
+        "player_name": "Rowdy Tellez",
+        "status_update": "changed hometown from Spring,TX to Sacramento,CA",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/180759/"
+    },
+    {
+        "player_name": "Rowdy Tellez",
+        "status_update": "changed hometown_link from https://www.thebaseballcube.com/content/city/343/ to https://www.thebaseballcube.com/content/city/313/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/180759/"
+    },
+    {
+        "player_name": "Rowdy Tellez",
+        "status_update": "changed birthday from 1997-01-28 to 1995-03-16",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/180759/"
+    },
+    {
+        "player_name": "Rowdy Tellez",
+        "status_update": "changed birthday_link from https://www.thebaseballcube.com/content/box_Date/19970128/ to https://www.thebaseballcube.com/content/box_Date/19950316/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/180759/"
+    },
+    {
+        "player_name": "Rowdy Tellez",
+        "status_update": "changed throwing_hand from R to L",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/180759/"
+    },
+    {
+        "player_name": "Rowdy Tellez",
+        "status_update": "changed batting_hand from R to L",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/180759/"
+    },
+    {
+        "player_name": "Rowdy Tellez",
+        "status_update": "changed weight from 205 to 270",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/180759/"
+    },
+    {
+        "player_name": "Rowdy Tellez",
+        "status_update": "changed height from 5-10 to 6-4",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/180759/"
+    },
+    {
+        "player_name": "Rowdy Tellez",
+        "status_update": "changed age from 26 to 28",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/180759/"
+    },
+    {
+        "player_name": "Rowdy Tellez",
+        "status_update": "changed position from 3b to 1b-dh",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/180759/"
+    },
+    {
+        "player_name": "Rowdy Tellez",
+        "status_update": "changed player_name from Ke'Bryan Hayes to Rowdy Tellez",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/180759/"
+    },
+    {
+        "player_name": "Rowdy Tellez",
+        "status_update": "changed player_name_link from https://www.thebaseballcube.com/content/player/197356/ to https://www.thebaseballcube.com/content/player/180759/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/180759/"
+    },
+    {
+        "player_name": "Liover Peguero",
+        "status_update": "changed draft_info from 2020-  1-   7-PIT to 2017-    UDFA-ARI",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/216352/"
+    },
+    {
+        "player_name": "Liover Peguero",
+        "status_update": "changed draft_info_link from https://www.thebaseballcube.com/content/draft_year/2020/ to https://www.thebaseballcube.com/content/udfa_class/2017~2/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/216352/"
+    },
+    {
+        "player_name": "Liover Peguero",
+        "status_update": "changed stat_years from 2018-2023 to 2018-2024",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/216352/"
+    },
+    {
+        "player_name": "Liover Peguero",
+        "status_update": "changed year_in_mlb from 2023-2023 to 2022-2023",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/216352/"
+    },
+    {
+        "player_name": "Liover Peguero",
+        "status_update": "changed hometown from Vail,AZ to Higuey,DR",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/216352/"
+    },
+    {
+        "player_name": "Liover Peguero",
+        "status_update": "changed hometown_link from https://www.thebaseballcube.com/content/city/12842/ to https://www.thebaseballcube.com/content/city/3715/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/216352/"
+    },
+    {
+        "player_name": "Liover Peguero",
+        "status_update": "changed birthday from 1999-05-27 to 2000-12-31",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/216352/"
+    },
+    {
+        "player_name": "Liover Peguero",
+        "status_update": "changed birthday_link from https://www.thebaseballcube.com/content/box_Date/19990527/ to https://www.thebaseballcube.com/content/box_Date/20001231/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/216352/"
+    },
+    {
+        "player_name": "Liover Peguero",
+        "status_update": "changed weight from 195 to 220",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/216352/"
+    },
+    {
+        "player_name": "Liover Peguero",
+        "status_update": "changed height from 5-10 to 6-1",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/216352/"
+    },
+    {
+        "player_name": "Liover Peguero",
+        "status_update": "changed age from 24 to 23",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/216352/"
+    },
+    {
+        "player_name": "Liover Peguero",
+        "status_update": "changed position from 2b-ss to ss-2b",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/216352/"
+    },
+    {
+        "player_name": "Liover Peguero",
+        "status_update": "changed player_name from Nick Gonzales to Liover Peguero",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/216352/"
+    },
+    {
+        "player_name": "Liover Peguero",
+        "status_update": "changed player_name_link from https://www.thebaseballcube.com/content/player/215167/ to https://www.thebaseballcube.com/content/player/216352/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/216352/"
+    },
+    {
+        "player_name": "Isiah Kiner-Falefa",
+        "status_update": "changed draft_info from 2015-    UDFA-LAN to 2013-  4- 130-TEX",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/180985/"
+    },
+    {
+        "player_name": "Isiah Kiner-Falefa",
+        "status_update": "changed draft_info_link from https://www.thebaseballcube.com/content/udfa_class/2015~15/ to https://www.thebaseballcube.com/content/draft_year/2013/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/180985/"
+    },
+    {
+        "player_name": "Isiah Kiner-Falefa",
+        "status_update": "changed stat_years from 2016-2023 to 2013-2024",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/180985/"
+    },
+    {
+        "player_name": "Isiah Kiner-Falefa",
+        "status_update": "changed year_in_mlb from 2021-2023 to 2018-2024",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/180985/"
+    },
+    {
+        "player_name": "Isiah Kiner-Falefa",
+        "status_update": "changed hometown from Nizao,DR to Honolulu,HI",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/180985/"
+    },
+    {
+        "player_name": "Isiah Kiner-Falefa",
+        "status_update": "changed hometown_link from https://www.thebaseballcube.com/content/city/7381/ to https://www.thebaseballcube.com/content/city/30/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/180985/"
+    },
+    {
+        "player_name": "Isiah Kiner-Falefa",
+        "status_update": "changed birthday from 1998-10-04 to 1995-03-23",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/180985/"
+    },
+    {
+        "player_name": "Isiah Kiner-Falefa",
+        "status_update": "changed birthday_link from https://www.thebaseballcube.com/content/box_Date/19981004/ to https://www.thebaseballcube.com/content/box_Date/19950323/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/180985/"
+    },
+    {
+        "player_name": "Isiah Kiner-Falefa",
+        "status_update": "changed batting_hand from L to R",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/180985/"
+    },
+    {
+        "player_name": "Isiah Kiner-Falefa",
+        "status_update": "changed weight from 220 to 190",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/180985/"
+    },
+    {
+        "player_name": "Isiah Kiner-Falefa",
+        "status_update": "changed height from 6-7 to 5-11",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/180985/"
+    },
+    {
+        "player_name": "Isiah Kiner-Falefa",
+        "status_update": "changed current_status from IL-60 to Active",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/180985/"
+    },
+    {
+        "player_name": "Isiah Kiner-Falefa",
+        "status_update": "changed age from 24 to 29",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/180985/"
+    },
+    {
+        "player_name": "Isiah Kiner-Falefa",
+        "status_update": "changed player_name from Oneil Cruz to Isiah Kiner-Falefa",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/180985/"
+    },
+    {
+        "player_name": "Isiah Kiner-Falefa",
+        "status_update": "changed player_name_link from https://www.thebaseballcube.com/content/player/208967/ to https://www.thebaseballcube.com/content/player/180985/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/180985/"
+    },
+    {
+        "player_name": "Ke'Bryan Hayes",
+        "status_update": "changed draft_info from 2018- 20- 596-TOR to 2015-  1-  32-PIT",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/197356/"
+    },
+    {
+        "player_name": "Ke'Bryan Hayes",
+        "status_update": "changed draft_info_link from https://www.thebaseballcube.com/content/draft_year/2018/ to https://www.thebaseballcube.com/content/draft_year/2015/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/197356/"
+    },
+    {
+        "player_name": "Ke'Bryan Hayes",
+        "status_update": "changed stat_years from 2015-2023 to 2015-2024",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/197356/"
+    },
+    {
+        "player_name": "Ke'Bryan Hayes",
+        "status_update": "changed year_in_mlb from 2022-2023 to 2020-2024",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/197356/"
+    },
+    {
+        "player_name": "Ke'Bryan Hayes",
+        "status_update": "changed hometown from Melbourne,FL to Tomball,TX",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/197356/"
+    },
+    {
+        "player_name": "Ke'Bryan Hayes",
+        "status_update": "changed hometown_link from https://www.thebaseballcube.com/content/city/626/ to https://www.thebaseballcube.com/content/city/4268/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/197356/"
+    },
+    {
+        "player_name": "Ke'Bryan Hayes",
+        "status_update": "changed birthday from 1996-07-07 to 1997-01-28",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/197356/"
+    },
+    {
+        "player_name": "Ke'Bryan Hayes",
+        "status_update": "changed birthday_link from https://www.thebaseballcube.com/content/box_Date/19960707/ to https://www.thebaseballcube.com/content/box_Date/19970128/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/197356/"
+    },
+    {
+        "player_name": "Ke'Bryan Hayes",
+        "status_update": "changed weight from 180 to 195",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/197356/"
+    },
+    {
+        "player_name": "Ke'Bryan Hayes",
+        "status_update": "changed height from 5-8 to 5-11",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/197356/"
+    },
+    {
+        "player_name": "Ke'Bryan Hayes",
+        "status_update": "changed current_status from Minors to IL-10",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/197356/"
+    },
+    {
+        "player_name": "Ke'Bryan Hayes",
+        "status_update": "changed position from ss-3b to 3b",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/197356/"
+    },
+    {
+        "player_name": "Ke'Bryan Hayes",
+        "status_update": "changed player_name from Vinny Capra to Ke'Bryan Hayes",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/197356/"
+    },
+    {
+        "player_name": "Ke'Bryan Hayes",
+        "status_update": "changed player_name_link from https://www.thebaseballcube.com/content/player/207142/ to https://www.thebaseballcube.com/content/player/197356/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/197356/"
+    },
+    {
+        "player_name": "Nick Gonzales",
+        "status_update": "changed draft_info from 2018-    UDFA-PIT to 2020-  1-   7-PIT",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/215167/"
+    },
+    {
+        "player_name": "Nick Gonzales",
+        "status_update": "changed draft_info_link from https://www.thebaseballcube.com/content/udfa_class/2018~23/ to https://www.thebaseballcube.com/content/draft_year/2020/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/215167/"
+    },
+    {
+        "player_name": "Nick Gonzales",
+        "status_update": "changed stat_years from 2018-2023 to 2018-2024",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/215167/"
+    },
+    {
+        "player_name": "Nick Gonzales",
+        "status_update": "changed year_in_mlb from 2022-2023 to 2023-2024",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/215167/"
+    },
+    {
+        "player_name": "Nick Gonzales",
+        "status_update": "changed hometown from Daegu,KR to Vail,AZ",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/215167/"
+    },
+    {
+        "player_name": "Nick Gonzales",
+        "status_update": "changed hometown_link from https://www.thebaseballcube.com/content/city/15709/ to https://www.thebaseballcube.com/content/city/12842/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/215167/"
+    },
+    {
+        "player_name": "Nick Gonzales",
+        "status_update": "changed birthday from 1999-07-26 to 1999-05-27",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/215167/"
+    },
+    {
+        "player_name": "Nick Gonzales",
+        "status_update": "changed birthday_link from https://www.thebaseballcube.com/content/box_Date/19990726/ to https://www.thebaseballcube.com/content/box_Date/19990527/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/215167/"
+    },
+    {
+        "player_name": "Nick Gonzales",
+        "status_update": "changed batting_hand from L to R",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/215167/"
+    },
+    {
+        "player_name": "Nick Gonzales",
+        "status_update": "changed weight from 185 to 190",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/215167/"
+    },
+    {
+        "player_name": "Nick Gonzales",
+        "status_update": "changed height from 6-1 to 5-9",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/215167/"
+    },
+    {
+        "player_name": "Nick Gonzales",
+        "status_update": "changed age from 24 to 25",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/215167/"
+    },
+    {
+        "player_name": "Nick Gonzales",
+        "status_update": "changed position from 2b-cf to 2b-ss",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/215167/"
+    },
+    {
+        "player_name": "Nick Gonzales",
+        "status_update": "changed player_name from Ji Hwan Bae to Nick Gonzales",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/215167/"
+    },
+    {
+        "player_name": "Nick Gonzales",
+        "status_update": "changed player_name_link from https://www.thebaseballcube.com/content/player/215704/ to https://www.thebaseballcube.com/content/player/215167/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/215167/"
+    },
+    {
+        "player_name": "Oneil Cruz",
+        "status_update": "changed draft_info from 2017-  4- 118-PIT to 2015-    UDFA-LAN",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/208967/"
+    },
+    {
+        "player_name": "Oneil Cruz",
+        "status_update": "changed draft_info_link from https://www.thebaseballcube.com/content/draft_year/2017/ to https://www.thebaseballcube.com/content/udfa_class/2015~15/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/208967/"
+    },
+    {
+        "player_name": "Oneil Cruz",
+        "status_update": "changed stat_years from 2014-2023 to 2016-2024",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/208967/"
+    },
+    {
+        "player_name": "Oneil Cruz",
+        "status_update": "changed year_in_mlb from 2022-2023 to 2021-2024",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/208967/"
+    },
+    {
+        "player_name": "Oneil Cruz",
+        "status_update": "changed hometown from Sugar Land,TX to Nizao,DR",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/208967/"
+    },
+    {
+        "player_name": "Oneil Cruz",
+        "status_update": "changed hometown_link from https://www.thebaseballcube.com/content/city/2955/ to https://www.thebaseballcube.com/content/city/7381/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/208967/"
+    },
+    {
+        "player_name": "Oneil Cruz",
+        "status_update": "changed birthday from 1995-03-07 to 1998-10-04",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/208967/"
+    },
+    {
+        "player_name": "Oneil Cruz",
+        "status_update": "changed birthday_link from https://www.thebaseballcube.com/content/box_Date/19950307/ to https://www.thebaseballcube.com/content/box_Date/19981004/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/208967/"
+    },
+    {
+        "player_name": "Oneil Cruz",
+        "status_update": "changed batting_hand from R to L",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/208967/"
+    },
+    {
+        "player_name": "Oneil Cruz",
+        "status_update": "changed weight from 190 to 215",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/208967/"
+    },
+    {
+        "player_name": "Oneil Cruz",
+        "status_update": "changed height from 6-0 to 6-7",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/208967/"
+    },
+    {
+        "player_name": "Oneil Cruz",
+        "status_update": "changed age from 28 to 25",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/208967/"
+    },
+    {
+        "player_name": "Oneil Cruz",
+        "status_update": "changed position from c to ss",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/208967/"
+    },
+    {
+        "player_name": "Oneil Cruz",
+        "status_update": "changed player_name from Jason Delay to Oneil Cruz",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/208967/"
+    },
+    {
+        "player_name": "Oneil Cruz",
+        "status_update": "changed player_name_link from https://www.thebaseballcube.com/content/player/185055/ to https://www.thebaseballcube.com/content/player/208967/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/208967/"
+    },
+    {
+        "player_name": "Tsung-Che Cheng",
+        "status_update": "changed draft_info from 2021-  1-   1-PIT to 2019-    UDFA-PIT",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/236976/"
+    },
+    {
+        "player_name": "Tsung-Che Cheng",
+        "status_update": "changed draft_info_link from https://www.thebaseballcube.com/content/draft_year/2021/ to https://www.thebaseballcube.com/content/udfa_class/2019~23/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/236976/"
+    },
+    {
+        "player_name": "Tsung-Che Cheng",
+        "status_update": "changed stat_years from 2019-2023 to 2021-2024",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/236976/"
+    },
+    {
+        "player_name": "Tsung-Che Cheng",
+        "status_update": "changed year_in_mlb from 2023-2023 to --",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/236976/"
+    },
+    {
+        "player_name": "Tsung-Che Cheng",
+        "status_update": "changed highest_level_played from MLB to AAA",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/236976/"
+    },
+    {
+        "player_name": "Tsung-Che Cheng",
+        "status_update": "changed hometown from Bedford,NY to Pingtung County,TW",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/236976/"
+    },
+    {
+        "player_name": "Tsung-Che Cheng",
+        "status_update": "changed hometown_link from https://www.thebaseballcube.com/content/city/13120/ to https://www.thebaseballcube.com/content/city/20647/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/236976/"
+    },
+    {
+        "player_name": "Tsung-Che Cheng",
+        "status_update": "changed birthday from 1999-09-21 to 2001-07-26",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/236976/"
+    },
+    {
+        "player_name": "Tsung-Che Cheng",
+        "status_update": "changed birthday_link from https://www.thebaseballcube.com/content/box_Date/19990921/ to https://www.thebaseballcube.com/content/box_Date/20010726/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/236976/"
+    },
+    {
+        "player_name": "Tsung-Che Cheng",
+        "status_update": "changed batting_hand from R to L",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/236976/"
+    },
+    {
+        "player_name": "Tsung-Che Cheng",
+        "status_update": "changed weight from 210 to 173",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/236976/"
+    },
+    {
+        "player_name": "Tsung-Che Cheng",
+        "status_update": "changed height from 6-0 to 5-7",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/236976/"
+    },
+    {
+        "player_name": "Tsung-Che Cheng",
+        "status_update": "changed current_status from Active to Minors",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/236976/"
+    },
+    {
+        "player_name": "Tsung-Che Cheng",
+        "status_update": "changed position from c to ss-2b",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/236976/"
+    },
+    {
+        "player_name": "Tsung-Che Cheng",
+        "status_update": "changed player_name from Henry Davis to Tsung-Che Cheng",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/236976/"
+    },
+    {
+        "player_name": "Tsung-Che Cheng",
+        "status_update": "changed player_name_link from https://www.thebaseballcube.com/content/player/221001/ to https://www.thebaseballcube.com/content/player/236976/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/236976/"
+    },
+    {
+        "player_name": "Ji Hwan Bae",
+        "status_update": "changed draft_info from 2021-  4- 129-SDN to 2018-    UDFA-PIT",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/215704/"
+    },
+    {
+        "player_name": "Ji Hwan Bae",
+        "status_update": "changed draft_info_link from https://www.thebaseballcube.com/content/draft_year/2021/ to https://www.thebaseballcube.com/content/udfa_class/2018~23/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/215704/"
+    },
+    {
+        "player_name": "Ji Hwan Bae",
+        "status_update": "changed stat_years from 2018-2023 to 2018-2024",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/215704/"
+    },
+    {
+        "player_name": "Ji Hwan Bae",
+        "status_update": "changed year_in_mlb from 2023-2023 to 2022-2024",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/215704/"
+    },
+    {
+        "player_name": "Ji Hwan Bae",
+        "status_update": "changed hometown from Gahanna,OH to Daegu,KR",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/215704/"
+    },
+    {
+        "player_name": "Ji Hwan Bae",
+        "status_update": "changed hometown_link from https://www.thebaseballcube.com/content/city/2007/ to https://www.thebaseballcube.com/content/city/15709/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/215704/"
+    },
+    {
+        "player_name": "Ji Hwan Bae",
+        "status_update": "changed birthday from 1999-04-22 to 1999-07-26",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/215704/"
+    },
+    {
+        "player_name": "Ji Hwan Bae",
+        "status_update": "changed birthday_link from https://www.thebaseballcube.com/content/box_Date/19990422/ to https://www.thebaseballcube.com/content/box_Date/19990726/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/215704/"
+    },
+    {
+        "player_name": "Ji Hwan Bae",
+        "status_update": "changed throwing_hand from L to R",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/215704/"
+    },
+    {
+        "player_name": "Ji Hwan Bae",
+        "status_update": "changed weight from 205 to 185",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/215704/"
+    },
+    {
+        "player_name": "Ji Hwan Bae",
+        "status_update": "changed height from 6-7 to 5-11",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/215704/"
+    },
+    {
+        "player_name": "Ji Hwan Bae",
+        "status_update": "changed age from 24 to 25",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/215704/"
+    },
+    {
+        "player_name": "Ji Hwan Bae",
+        "status_update": "changed position from p to 2b-cf",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/215704/"
+    },
+    {
+        "player_name": "Ji Hwan Bae",
+        "status_update": "changed player_name from Jackson Wolf to Ji Hwan Bae",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/215704/"
+    },
+    {
+        "player_name": "Ji Hwan Bae",
+        "status_update": "changed player_name_link from https://www.thebaseballcube.com/content/player/212422/ to https://www.thebaseballcube.com/content/player/215704/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/215704/"
+    },
+    {
+        "player_name": "Endy Rodriguez",
+        "status_update": "changed draft_info from 2010-  2-  58-HOU to 2018-    UDFA-NYN",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/217170/"
+    },
+    {
+        "player_name": "Endy Rodriguez",
+        "status_update": "changed draft_info_link from https://www.thebaseballcube.com/content/draft_year/2010/ to https://www.thebaseballcube.com/content/udfa_class/2018~19/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/217170/"
+    },
+    {
+        "player_name": "Endy Rodriguez",
+        "status_update": "changed stat_years from 2010-2023 to 2018-2024",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/217170/"
+    },
+    {
+        "player_name": "Endy Rodriguez",
+        "status_update": "changed year_in_mlb from 2015-2023 to 2023-2023",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/217170/"
+    },
+    {
+        "player_name": "Endy Rodriguez",
+        "status_update": "changed hometown from Pomona,CA to Santiago,DR",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/217170/"
+    },
+    {
+        "player_name": "Endy Rodriguez",
+        "status_update": "changed hometown_link from https://www.thebaseballcube.com/content/city/409/ to https://www.thebaseballcube.com/content/city/13/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/217170/"
+    },
+    {
+        "player_name": "Endy Rodriguez",
+        "status_update": "changed birthday from 1992-06-07 to 2000-05-26",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/217170/"
+    },
+    {
+        "player_name": "Endy Rodriguez",
+        "status_update": "changed birthday_link from https://www.thebaseballcube.com/content/box_Date/19920607/ to https://www.thebaseballcube.com/content/box_Date/20000526/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/217170/"
+    },
+    {
+        "player_name": "Endy Rodriguez",
+        "status_update": "changed weight from 212 to 200",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/217170/"
+    },
+    {
+        "player_name": "Endy Rodriguez",
+        "status_update": "changed height from 6-3 to 6-0",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/217170/"
+    },
+    {
+        "player_name": "Endy Rodriguez",
+        "status_update": "changed age from 31 to 24",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/217170/"
+    },
+    {
+        "player_name": "Endy Rodriguez",
+        "status_update": "changed position from p to c",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/217170/"
+    },
+    {
+        "player_name": "Endy Rodriguez",
+        "status_update": "changed player_name from Vincent Velasquez to Endy Rodriguez",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/217170/"
+    },
+    {
+        "player_name": "Endy Rodriguez",
+        "status_update": "changed player_name_link from https://www.thebaseballcube.com/content/player/156477/ to https://www.thebaseballcube.com/content/player/217170/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/217170/"
+    },
+    {
+        "player_name": "Yasmani Grandal",
+        "status_update": "changed draft_info from 2017- 16- 478-PIT to 2010-  1-  12-CIN",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/129292/"
+    },
+    {
+        "player_name": "Yasmani Grandal",
+        "status_update": "changed draft_info_link from https://www.thebaseballcube.com/content/draft_year/2017/ to https://www.thebaseballcube.com/content/draft_year/2010/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/129292/"
+    },
+    {
+        "player_name": "Yasmani Grandal",
+        "status_update": "changed stat_years from 2017-2023 to 2008-2024",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/129292/"
+    },
+    {
+        "player_name": "Yasmani Grandal",
+        "status_update": "changed year_in_mlb from 2023-2023 to 2012-2024",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/129292/"
+    },
+    {
+        "player_name": "Yasmani Grandal",
+        "status_update": "changed hometown from Bristol,TN to Havana,CU",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/129292/"
+    },
+    {
+        "player_name": "Yasmani Grandal",
+        "status_update": "changed hometown_link from https://www.thebaseballcube.com/content/city/3415/ to https://www.thebaseballcube.com/content/city/63/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/129292/"
+    },
+    {
+        "player_name": "Yasmani Grandal",
+        "status_update": "changed birthday from 1996-11-17 to 1988-11-08",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/129292/"
+    },
+    {
+        "player_name": "Yasmani Grandal",
+        "status_update": "changed birthday_link from https://www.thebaseballcube.com/content/box_Date/19961117/ to https://www.thebaseballcube.com/content/box_Date/19881108/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/129292/"
+    },
+    {
+        "player_name": "Yasmani Grandal",
+        "status_update": "changed batting_hand from R to B",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/129292/"
+    },
+    {
+        "player_name": "Yasmani Grandal",
+        "status_update": "changed height from 6-4 to 6-2",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/129292/"
+    },
+    {
+        "player_name": "Yasmani Grandal",
+        "status_update": "changed age from 26 to 35",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/129292/"
+    },
+    {
+        "player_name": "Yasmani Grandal",
+        "status_update": "changed position from p to c",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/129292/"
+    },
+    {
+        "player_name": "Yasmani Grandal",
+        "status_update": "changed player_name from Hunter Stratton to Yasmani Grandal",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/129292/"
+    },
+    {
+        "player_name": "Yasmani Grandal",
+        "status_update": "changed player_name_link from https://www.thebaseballcube.com/content/player/210289/ to https://www.thebaseballcube.com/content/player/129292/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/129292/"
+    },
+    {
+        "player_name": "Jason Delay",
+        "status_update": "changed draft_info from 2018- 16- 474-PIT to 2017-  4- 118-PIT",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/185055/"
+    },
+    {
+        "player_name": "Jason Delay",
+        "status_update": "changed draft_info_link from https://www.thebaseballcube.com/content/draft_year/2018/ to https://www.thebaseballcube.com/content/draft_year/2017/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/185055/"
+    },
+    {
+        "player_name": "Jason Delay",
+        "status_update": "changed stat_years from 2018-2023 to 2014-2024",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/185055/"
+    },
+    {
+        "player_name": "Jason Delay",
+        "status_update": "changed year_in_mlb from 2023-2023 to 2022-2024",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/185055/"
+    },
+    {
+        "player_name": "Jason Delay",
+        "status_update": "changed hometown from Chesapeake,VA to Plano,TX",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/185055/"
+    },
+    {
+        "player_name": "Jason Delay",
+        "status_update": "changed hometown_link from https://www.thebaseballcube.com/content/city/1230/ to https://www.thebaseballcube.com/content/city/2813/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/185055/"
+    },
+    {
+        "player_name": "Jason Delay",
+        "status_update": "changed birthday from 1997-10-24 to 1995-03-07",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/185055/"
+    },
+    {
+        "player_name": "Jason Delay",
+        "status_update": "changed birthday_link from https://www.thebaseballcube.com/content/box_Date/19971024/ to https://www.thebaseballcube.com/content/box_Date/19950307/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/185055/"
+    },
+    {
+        "player_name": "Jason Delay",
+        "status_update": "changed weight from 220 to 190",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/185055/"
+    },
+    {
+        "player_name": "Jason Delay",
+        "status_update": "changed height from 6-2 to 5-11",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/185055/"
+    },
+    {
+        "player_name": "Jason Delay",
+        "status_update": "changed current_status from Active to Minors",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/185055/"
+    },
+    {
+        "player_name": "Jason Delay",
+        "status_update": "changed age from 25 to 29",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/185055/"
+    },
+    {
+        "player_name": "Jason Delay",
+        "status_update": "changed position from p to c",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/185055/"
+    },
+    {
+        "player_name": "Jason Delay",
+        "status_update": "changed player_name from Colin Selby to Jason Delay",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/185055/"
+    },
+    {
+        "player_name": "Jason Delay",
+        "status_update": "changed player_name_link from https://www.thebaseballcube.com/content/player/216198/ to https://www.thebaseballcube.com/content/player/185055/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/185055/"
+    },
+    {
+        "player_name": "Joey Bart",
+        "status_update": "changed draft_info from 2019-  1-  18-PIT to 2018-  1-   2-SFN",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/197636/"
+    },
+    {
+        "player_name": "Joey Bart",
+        "status_update": "changed draft_info_link from https://www.thebaseballcube.com/content/draft_year/2019/ to https://www.thebaseballcube.com/content/draft_year/2018/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/197636/"
+    },
+    {
+        "player_name": "Joey Bart",
+        "status_update": "changed stat_years from 2019-2023 to 2016-2024",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/197636/"
+    },
+    {
+        "player_name": "Joey Bart",
+        "status_update": "changed year_in_mlb from 2023-2023 to 2020-2024",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/197636/"
+    },
+    {
+        "player_name": "Joey Bart",
+        "status_update": "changed hometown from Glendale Heights,IL to Buford,GA",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/197636/"
+    },
+    {
+        "player_name": "Joey Bart",
+        "status_update": "changed hometown_link from https://www.thebaseballcube.com/content/city/8264/ to https://www.thebaseballcube.com/content/city/6128/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/197636/"
+    },
+    {
+        "player_name": "Joey Bart",
+        "status_update": "changed birthday from 2000-09-15 to 1996-12-15",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/197636/"
+    },
+    {
+        "player_name": "Joey Bart",
+        "status_update": "changed birthday_link from https://www.thebaseballcube.com/content/box_Date/20000915/ to https://www.thebaseballcube.com/content/box_Date/19961215/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/197636/"
+    },
+    {
+        "player_name": "Joey Bart",
+        "status_update": "changed weight from 210 to 238",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/197636/"
+    },
+    {
+        "player_name": "Joey Bart",
+        "status_update": "changed height from 6-3 to 6-2",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/197636/"
+    },
+    {
+        "player_name": "Joey Bart",
+        "status_update": "changed age from 22 to 27",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/197636/"
+    },
+    {
+        "player_name": "Joey Bart",
+        "status_update": "changed position from p to c",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/197636/"
+    },
+    {
+        "player_name": "Joey Bart",
+        "status_update": "changed player_name from Quinn Priester to Joey Bart",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/197636/"
+    },
+    {
+        "player_name": "Joey Bart",
+        "status_update": "changed player_name_link from https://www.thebaseballcube.com/content/player/222134/ to https://www.thebaseballcube.com/content/player/197636/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/197636/"
+    },
+    {
+        "player_name": "Joey Wentz",
+        "status_update": "changed draft_info from 2011-    UDFA-TOR to 2016-  1-  40-ATL",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/203940/"
+    },
+    {
+        "player_name": "Joey Wentz",
+        "status_update": "changed draft_info_link from https://www.thebaseballcube.com/content/udfa_class/2011~30/ to https://www.thebaseballcube.com/content/draft_year/2016/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/203940/"
+    },
+    {
+        "player_name": "Joey Wentz",
+        "status_update": "changed stat_years from 2012-2023 to 2016-2024",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/203940/"
+    },
+    {
+        "player_name": "Joey Wentz",
+        "status_update": "changed year_in_mlb from 2020-2023 to 2022-2024",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/203940/"
+    },
+    {
+        "player_name": "Joey Wentz",
+        "status_update": "changed hometown from San Cristobal,DR to Lawrence,KS",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/203940/"
+    },
+    {
+        "player_name": "Joey Wentz",
+        "status_update": "changed hometown_link from https://www.thebaseballcube.com/content/city/319/ to https://www.thebaseballcube.com/content/city/2011/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/203940/"
+    },
+    {
+        "player_name": "Joey Wentz",
+        "status_update": "changed birthday from 1994-05-07 to 1997-10-06",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/203940/"
+    },
+    {
+        "player_name": "Joey Wentz",
+        "status_update": "changed birthday_link from https://www.thebaseballcube.com/content/box_Date/19940507/ to https://www.thebaseballcube.com/content/box_Date/19971006/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/203940/"
+    },
+    {
+        "player_name": "Joey Wentz",
+        "status_update": "changed weight from 265 to 220",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/203940/"
+    },
+    {
+        "player_name": "Joey Wentz",
+        "status_update": "changed height from 6-8 to 6-5",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/203940/"
+    },
+    {
+        "player_name": "Joey Wentz",
+        "status_update": "changed current_status from IL-60 to Active",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/203940/"
+    },
+    {
+        "player_name": "Joey Wentz",
+        "status_update": "changed age from 29 to 26",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/203940/"
+    },
+    {
+        "player_name": "Joey Wentz",
+        "status_update": "changed player_name from Angel Perdomo to Joey Wentz",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/203940/"
+    },
+    {
+        "player_name": "Joey Wentz",
+        "status_update": "changed player_name_link from https://www.thebaseballcube.com/content/player/182842/ to https://www.thebaseballcube.com/content/player/203940/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/203940/"
+    },
+    {
+        "player_name": "Hunter Stratton",
+        "status_update": "changed draft_info from 2016-    UDFA-SLN to 2017- 16- 478-PIT",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/210289/"
+    },
+    {
+        "player_name": "Hunter Stratton",
+        "status_update": "changed draft_info_link from https://www.thebaseballcube.com/content/udfa_class/2016~27/ to https://www.thebaseballcube.com/content/draft_year/2017/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/210289/"
+    },
+    {
+        "player_name": "Hunter Stratton",
+        "status_update": "changed stat_years from 2016-2023 to 2017-2024",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/210289/"
+    },
+    {
+        "player_name": "Hunter Stratton",
+        "status_update": "changed year_in_mlb from 2020-2023 to 2023-2024",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/210289/"
+    },
+    {
+        "player_name": "Hunter Stratton",
+        "status_update": "changed hometown from Havana,CU to Bristol,TN",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/210289/"
+    },
+    {
+        "player_name": "Hunter Stratton",
+        "status_update": "changed hometown_link from https://www.thebaseballcube.com/content/city/63/ to https://www.thebaseballcube.com/content/city/3415/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/210289/"
+    },
+    {
+        "player_name": "Hunter Stratton",
+        "status_update": "changed birthday from 1998-03-02 to 1996-11-17",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/210289/"
+    },
+    {
+        "player_name": "Hunter Stratton",
+        "status_update": "changed birthday_link from https://www.thebaseballcube.com/content/box_Date/19980302/ to https://www.thebaseballcube.com/content/box_Date/19961117/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/210289/"
+    },
+    {
+        "player_name": "Hunter Stratton",
+        "status_update": "changed weight from 245 to 225",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/210289/"
+    },
+    {
+        "player_name": "Hunter Stratton",
+        "status_update": "changed height from 6-5 to 6-4",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/210289/"
+    },
+    {
+        "player_name": "Hunter Stratton",
+        "status_update": "changed age from 24 to 27",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/210289/"
+    },
+    {
+        "player_name": "Hunter Stratton",
+        "status_update": "changed player_name from Johan Oviedo to Hunter Stratton",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/210289/"
+    },
+    {
+        "player_name": "Hunter Stratton",
+        "status_update": "changed player_name_link from https://www.thebaseballcube.com/content/player/208676/ to https://www.thebaseballcube.com/content/player/210289/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/210289/"
+    },
+    {
+        "player_name": "Paul Skenes",
+        "status_update": "changed draft_info from 2018-    UDFA-PIT to 2023-  1-   1-PIT",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/230599/"
+    },
+    {
+        "player_name": "Paul Skenes",
+        "status_update": "changed draft_info_link from https://www.thebaseballcube.com/content/udfa_class/2018~23/ to https://www.thebaseballcube.com/content/draft_year/2023/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/230599/"
+    },
+    {
+        "player_name": "Paul Skenes",
+        "status_update": "changed stat_years from 2019-2023 to 2021-2024",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/230599/"
+    },
+    {
+        "player_name": "Paul Skenes",
+        "status_update": "changed year_in_mlb from 2022-2023 to 2024-2024",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/230599/"
+    },
+    {
+        "player_name": "Paul Skenes",
+        "status_update": "changed hometown from San Pedro de Macoris,DR to Fullerton,CA",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/230599/"
+    },
+    {
+        "player_name": "Paul Skenes",
+        "status_update": "changed hometown_link from https://www.thebaseballcube.com/content/city/80/ to https://www.thebaseballcube.com/content/city/182/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/230599/"
+    },
+    {
+        "player_name": "Paul Skenes",
+        "status_update": "changed birthday from 1999-01-27 to 2002-05-29",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/230599/"
+    },
+    {
+        "player_name": "Paul Skenes",
+        "status_update": "changed birthday_link from https://www.thebaseballcube.com/content/box_Date/19990127/ to https://www.thebaseballcube.com/content/box_Date/20020529/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/230599/"
+    },
+    {
+        "player_name": "Paul Skenes",
+        "status_update": "changed weight from 240 to 235",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/230599/"
+    },
+    {
+        "player_name": "Paul Skenes",
+        "status_update": "changed height from 6-2 to 6-6",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/230599/"
+    },
+    {
+        "player_name": "Paul Skenes",
+        "status_update": "changed age from 24 to 21",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/230599/"
+    },
+    {
+        "player_name": "Paul Skenes",
+        "status_update": "changed player_name from Luis Ortiz to Paul Skenes",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/230599/"
+    },
+    {
+        "player_name": "Paul Skenes",
+        "status_update": "changed player_name_link from https://www.thebaseballcube.com/content/player/222620/ to https://www.thebaseballcube.com/content/player/230599/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/230599/"
+    },
+    {
+        "player_name": "Dennis Santana",
+        "status_update": "changed draft_info from 2015-    UDFA-CIN to 2013-    UDFA-LAN",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/183179/"
+    },
+    {
+        "player_name": "Dennis Santana",
+        "status_update": "changed draft_info_link from https://www.thebaseballcube.com/content/udfa_class/2015~8/ to https://www.thebaseballcube.com/content/udfa_class/2013~15/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/183179/"
+    },
+    {
+        "player_name": "Dennis Santana",
+        "status_update": "changed stat_years from 2015-2023 to 2013-2024",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/183179/"
+    },
+    {
+        "player_name": "Dennis Santana",
+        "status_update": "changed year_in_mlb from 2021-2023 to 2018-2024",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/183179/"
+    },
+    {
+        "player_name": "Dennis Santana",
+        "status_update": "changed hometown from Comendador,DR to San Pedro de Macoris,DR",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/183179/"
+    },
+    {
+        "player_name": "Dennis Santana",
+        "status_update": "changed hometown_link from https://www.thebaseballcube.com/content/city/17293/ to https://www.thebaseballcube.com/content/city/80/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/183179/"
+    },
+    {
+        "player_name": "Dennis Santana",
+        "status_update": "changed birthday from 1996-04-15 to 1996-04-12",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/183179/"
+    },
+    {
+        "player_name": "Dennis Santana",
+        "status_update": "changed birthday_link from https://www.thebaseballcube.com/content/box_Date/19960415/ to https://www.thebaseballcube.com/content/box_Date/19960412/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/183179/"
+    },
+    {
+        "player_name": "Dennis Santana",
+        "status_update": "changed weight from 185 to 190",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/183179/"
+    },
+    {
+        "player_name": "Dennis Santana",
+        "status_update": "changed current_status from Minors to Active",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/183179/"
+    },
+    {
+        "player_name": "Dennis Santana",
+        "status_update": "changed age from 27 to 28",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/183179/"
+    },
+    {
+        "player_name": "Dennis Santana",
+        "status_update": "changed player_name from Dauri Moreta to Dennis Santana",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/183179/"
+    },
+    {
+        "player_name": "Dennis Santana",
+        "status_update": "changed player_name_link from https://www.thebaseballcube.com/content/player/198733/ to https://www.thebaseballcube.com/content/player/183179/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/183179/"
+    },
+    {
+        "player_name": "Johan Oviedo",
+        "status_update": "changed draft_info from 2020-  1-  31-PIT to 2016-    UDFA-SLN",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/208676/"
+    },
+    {
+        "player_name": "Johan Oviedo",
+        "status_update": "changed draft_info_link from https://www.thebaseballcube.com/content/draft_year/2020/ to https://www.thebaseballcube.com/content/udfa_class/2016~27/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/208676/"
+    },
+    {
+        "player_name": "Johan Oviedo",
+        "status_update": "changed stat_years from 2018-2023 to 2016-2023",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/208676/"
+    },
+    {
+        "player_name": "Johan Oviedo",
+        "status_update": "changed year_in_mlb from 2023-2023 to 2020-2023",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/208676/"
+    },
+    {
+        "player_name": "Johan Oviedo",
+        "status_update": "changed hometown from Hilton Head Island,SC to Havana,CU",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/208676/"
+    },
+    {
+        "player_name": "Johan Oviedo",
+        "status_update": "changed hometown_link from https://www.thebaseballcube.com/content/city/2499/ to https://www.thebaseballcube.com/content/city/63/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/208676/"
+    },
+    {
+        "player_name": "Johan Oviedo",
+        "status_update": "changed birthday from 1999-02-19 to 1998-03-02",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/208676/"
+    },
+    {
+        "player_name": "Johan Oviedo",
+        "status_update": "changed birthday_link from https://www.thebaseballcube.com/content/box_Date/19990219/ to https://www.thebaseballcube.com/content/box_Date/19980302/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/208676/"
+    },
+    {
+        "player_name": "Johan Oviedo",
+        "status_update": "changed weight from 231 to 245",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/208676/"
+    },
+    {
+        "player_name": "Johan Oviedo",
+        "status_update": "changed height from 6-1 to 6-5",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/208676/"
+    },
+    {
+        "player_name": "Johan Oviedo",
+        "status_update": "changed current_status from Active to IL-60",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/208676/"
+    },
+    {
+        "player_name": "Johan Oviedo",
+        "status_update": "changed age from 24 to 25",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/208676/"
+    },
+    {
+        "player_name": "Johan Oviedo",
+        "status_update": "changed player_name from Carmen Mlodzinski to Johan Oviedo",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/208676/"
+    },
+    {
+        "player_name": "Johan Oviedo",
+        "status_update": "changed player_name_link from https://www.thebaseballcube.com/content/player/215281/ to https://www.thebaseballcube.com/content/player/208676/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/208676/"
+    },
+    {
+        "player_name": "Luis Ortiz",
+        "status_update": "changed draft_info from 2016- 11- 345-PIT to 2018-    UDFA-PIT",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/222620/"
+    },
+    {
+        "player_name": "Luis Ortiz",
+        "status_update": "changed draft_info_link from https://www.thebaseballcube.com/content/draft_year/2016/ to https://www.thebaseballcube.com/content/udfa_class/2018~23/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/222620/"
+    },
+    {
+        "player_name": "Luis Ortiz",
+        "status_update": "changed stat_years from 2016-2023 to 2019-2024",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/222620/"
+    },
+    {
+        "player_name": "Luis Ortiz",
+        "status_update": "changed year_in_mlb from 2021-2022 to 2022-2024",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/222620/"
+    },
+    {
+        "player_name": "Luis Ortiz",
+        "status_update": "changed hometown from Scranton,PA to San Pedro de Macoris,DR",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/222620/"
+    },
+    {
+        "player_name": "Luis Ortiz",
+        "status_update": "changed hometown_link from https://www.thebaseballcube.com/content/city/1678/ to https://www.thebaseballcube.com/content/city/80/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/222620/"
+    },
+    {
+        "player_name": "Luis Ortiz",
+        "status_update": "changed birthday from 1997-07-21 to 1999-01-27",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/222620/"
+    },
+    {
+        "player_name": "Luis Ortiz",
+        "status_update": "changed birthday_link from https://www.thebaseballcube.com/content/box_Date/19970721/ to https://www.thebaseballcube.com/content/box_Date/19990127/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/222620/"
+    },
+    {
+        "player_name": "Luis Ortiz",
+        "status_update": "changed weight from 220 to 235",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/222620/"
+    },
+    {
+        "player_name": "Luis Ortiz",
+        "status_update": "changed height from 6-3 to 6-2",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/222620/"
+    },
+    {
+        "player_name": "Luis Ortiz",
+        "status_update": "changed current_status from Minors to Active",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/222620/"
+    },
+    {
+        "player_name": "Luis Ortiz",
+        "status_update": "changed age from 26 to 24",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/222620/"
+    },
+    {
+        "player_name": "Luis Ortiz",
+        "status_update": "changed player_name from Max Kranick to Luis Ortiz",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/222620/"
+    },
+    {
+        "player_name": "Luis Ortiz",
+        "status_update": "changed player_name_link from https://www.thebaseballcube.com/content/player/204018/ to https://www.thebaseballcube.com/content/player/222620/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/222620/"
+    },
+    {
+        "player_name": "Kyle Nicolas",
+        "status_update": "changed draft_info from 2014-  2-  64-PIT to 2020-  2-  61-MIA",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/213825/"
+    },
+    {
+        "player_name": "Kyle Nicolas",
+        "status_update": "changed draft_info_link from https://www.thebaseballcube.com/content/draft_year/2014/ to https://www.thebaseballcube.com/content/draft_year/2020/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/213825/"
+    },
+    {
+        "player_name": "Kyle Nicolas",
+        "status_update": "changed stat_years from 2014-2023 to 2018-2024",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/213825/"
+    },
+    {
+        "player_name": "Kyle Nicolas",
+        "status_update": "changed year_in_mlb from 2019-2023 to 2023-2024",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/213825/"
+    },
+    {
+        "player_name": "Kyle Nicolas",
+        "status_update": "changed hometown from Cedar Rapids,IA to Massillon,OH",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/213825/"
+    },
+    {
+        "player_name": "Kyle Nicolas",
+        "status_update": "changed hometown_link from https://www.thebaseballcube.com/content/city/125/ to https://www.thebaseballcube.com/content/city/2661/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/213825/"
+    },
+    {
+        "player_name": "Kyle Nicolas",
+        "status_update": "changed birthday from 1996-04-04 to 1999-02-22",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/213825/"
+    },
+    {
+        "player_name": "Kyle Nicolas",
+        "status_update": "changed birthday_link from https://www.thebaseballcube.com/content/box_Date/19960404/ to https://www.thebaseballcube.com/content/box_Date/19990222/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/213825/"
+    },
+    {
+        "player_name": "Kyle Nicolas",
+        "status_update": "changed weight from 205 to 223",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/213825/"
+    },
+    {
+        "player_name": "Kyle Nicolas",
+        "status_update": "changed height from 6-2 to 6-4",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/213825/"
+    },
+    {
+        "player_name": "Kyle Nicolas",
+        "status_update": "changed age from 26 to 25",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/213825/"
+    },
+    {
+        "player_name": "Kyle Nicolas",
+        "status_update": "changed player_name from Mitch Keller to Kyle Nicolas",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/213825/"
+    },
+    {
+        "player_name": "Kyle Nicolas",
+        "status_update": "changed player_name_link from https://www.thebaseballcube.com/content/player/187807/ to https://www.thebaseballcube.com/content/player/213825/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/213825/"
+    },
+    {
+        "player_name": "Dauri Moreta",
+        "status_update": "changed draft_info from 2017- 12- 370-LAN to 2015-    UDFA-CIN",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/198733/"
+    },
+    {
+        "player_name": "Dauri Moreta",
+        "status_update": "changed draft_info_link from https://www.thebaseballcube.com/content/draft_year/2017/ to https://www.thebaseballcube.com/content/udfa_class/2015~8/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/198733/"
+    },
+    {
+        "player_name": "Dauri Moreta",
+        "status_update": "changed hometown from Vail,AZ to Comendador,DR",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/198733/"
+    },
+    {
+        "player_name": "Dauri Moreta",
+        "status_update": "changed hometown_link from https://www.thebaseballcube.com/content/city/12842/ to https://www.thebaseballcube.com/content/city/17293/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/198733/"
+    },
+    {
+        "player_name": "Dauri Moreta",
+        "status_update": "changed birthday from 1996-05-01 to 1996-04-15",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/198733/"
+    },
+    {
+        "player_name": "Dauri Moreta",
+        "status_update": "changed birthday_link from https://www.thebaseballcube.com/content/box_Date/19960501/ to https://www.thebaseballcube.com/content/box_Date/19960415/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/198733/"
+    },
+    {
+        "player_name": "Dauri Moreta",
+        "status_update": "changed weight from 210 to 185",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/198733/"
+    },
+    {
+        "player_name": "Dauri Moreta",
+        "status_update": "changed height from 6-3 to 6-2",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/198733/"
+    },
+    {
+        "player_name": "Dauri Moreta",
+        "status_update": "changed current_status from Active to IL-60",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/198733/"
+    },
+    {
+        "player_name": "Dauri Moreta",
+        "status_update": "changed player_name from Andre Jackson to Dauri Moreta",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/198733/"
+    },
+    {
+        "player_name": "Dauri Moreta",
+        "status_update": "changed player_name_link from https://www.thebaseballcube.com/content/player/188031/ to https://www.thebaseballcube.com/content/player/198733/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/198733/"
+    },
+    {
+        "player_name": "Carmen Mlodzinski",
+        "status_update": "changed draft_info from 2016-  9- 280-NYN to 2020-  1-  31-PIT",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/215281/"
+    },
+    {
+        "player_name": "Carmen Mlodzinski",
+        "status_update": "changed draft_info_link from https://www.thebaseballcube.com/content/draft_year/2016/ to https://www.thebaseballcube.com/content/draft_year/2020/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/215281/"
+    },
+    {
+        "player_name": "Carmen Mlodzinski",
+        "status_update": "changed stat_years from 2015-2023 to 2018-2024",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/215281/"
+    },
+    {
+        "player_name": "Carmen Mlodzinski",
+        "status_update": "changed year_in_mlb from 2022-2023 to 2023-2024",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/215281/"
+    },
+    {
+        "player_name": "Carmen Mlodzinski",
+        "status_update": "changed hometown from Bourbonnais,IL to Hilton Head Island,SC",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/215281/"
+    },
+    {
+        "player_name": "Carmen Mlodzinski",
+        "status_update": "changed hometown_link from https://www.thebaseballcube.com/content/city/5969/ to https://www.thebaseballcube.com/content/city/2499/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/215281/"
+    },
+    {
+        "player_name": "Carmen Mlodzinski",
+        "status_update": "changed birthday from 1995-10-08 to 1999-02-19",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/215281/"
+    },
+    {
+        "player_name": "Carmen Mlodzinski",
+        "status_update": "changed birthday_link from https://www.thebaseballcube.com/content/box_Date/19951008/ to https://www.thebaseballcube.com/content/box_Date/19990219/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/215281/"
+    },
+    {
+        "player_name": "Carmen Mlodzinski",
+        "status_update": "changed weight from 240 to 220",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/215281/"
+    },
+    {
+        "player_name": "Carmen Mlodzinski",
+        "status_update": "changed height from 6-7 to 6-2",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/215281/"
+    },
+    {
+        "player_name": "Carmen Mlodzinski",
+        "status_update": "changed age from 27 to 25",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/215281/"
+    },
+    {
+        "player_name": "Carmen Mlodzinski",
+        "status_update": "changed player_name from Colin Holderman to Carmen Mlodzinski",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/215281/"
+    },
+    {
+        "player_name": "Carmen Mlodzinski",
+        "status_update": "changed player_name_link from https://www.thebaseballcube.com/content/player/195721/ to https://www.thebaseballcube.com/content/player/215281/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/215281/"
+    },
+    {
+        "player_name": "Mitch Keller",
+        "status_update": "changed draft_info from 2016-    UDFA-LAN to 2014-  2-  64-PIT",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/187807/"
+    },
+    {
+        "player_name": "Mitch Keller",
+        "status_update": "changed draft_info_link from https://www.thebaseballcube.com/content/udfa_class/2016~15/ to https://www.thebaseballcube.com/content/draft_year/2014/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/187807/"
+    },
+    {
+        "player_name": "Mitch Keller",
+        "status_update": "changed stat_years from 2016-2023 to 2014-2024",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/187807/"
+    },
+    {
+        "player_name": "Mitch Keller",
+        "status_update": "changed year_in_mlb from 2023-2023 to 2019-2024",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/187807/"
+    },
+    {
+        "player_name": "Mitch Keller",
+        "status_update": "changed hometown from Puerto Plata,DR to Cedar Rapids,IA",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/187807/"
+    },
+    {
+        "player_name": "Mitch Keller",
+        "status_update": "changed hometown_link from https://www.thebaseballcube.com/content/city/85/ to https://www.thebaseballcube.com/content/city/125/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/187807/"
+    },
+    {
+        "player_name": "Mitch Keller",
+        "status_update": "changed birthday from 1997-12-31 to 1996-04-04",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/187807/"
+    },
+    {
+        "player_name": "Mitch Keller",
+        "status_update": "changed birthday_link from https://www.thebaseballcube.com/content/box_Date/19971231/ to https://www.thebaseballcube.com/content/box_Date/19960404/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/187807/"
+    },
+    {
+        "player_name": "Mitch Keller",
+        "status_update": "changed throwing_hand from L to R",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/187807/"
+    },
+    {
+        "player_name": "Mitch Keller",
+        "status_update": "changed batting_hand from L to R",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/187807/"
+    },
+    {
+        "player_name": "Mitch Keller",
+        "status_update": "changed weight from 205 to 220",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/187807/"
+    },
+    {
+        "player_name": "Mitch Keller",
+        "status_update": "changed age from 25 to 27",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/187807/"
+    },
+    {
+        "player_name": "Mitch Keller",
+        "status_update": "changed player_name from Jose Hernandez to Mitch Keller",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/187807/"
+    },
+    {
+        "player_name": "Mitch Keller",
+        "status_update": "changed player_name_link from https://www.thebaseballcube.com/content/player/208721/ to https://www.thebaseballcube.com/content/player/187807/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/187807/"
+    },
+    {
+        "player_name": "Jared Jones",
+        "status_update": "changed draft_info from 2016-  3- 104-CHN to 2020-  2-  44-PIT",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/228434/"
+    },
+    {
+        "player_name": "Jared Jones",
+        "status_update": "changed draft_info_link from https://www.thebaseballcube.com/content/draft_year/2016/ to https://www.thebaseballcube.com/content/draft_year/2020/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/228434/"
+    },
+    {
+        "player_name": "Jared Jones",
+        "status_update": "changed stat_years from 2014-2023 to 2021-2024",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/228434/"
+    },
+    {
+        "player_name": "Jared Jones",
+        "status_update": "changed year_in_mlb from 2020-2023 to 2024-2024",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/228434/"
+    },
+    {
+        "player_name": "Jared Jones",
+        "status_update": "changed hometown from Tulsa,OK to Whittier,CA",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/228434/"
+    },
+    {
+        "player_name": "Jared Jones",
+        "status_update": "changed hometown_link from https://www.thebaseballcube.com/content/city/537/ to https://www.thebaseballcube.com/content/city/26/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/228434/"
+    },
+    {
+        "player_name": "Jared Jones",
+        "status_update": "changed birthday from 1994-09-29 to 2001-08-06",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/228434/"
+    },
+    {
+        "player_name": "Jared Jones",
+        "status_update": "changed birthday_link from https://www.thebaseballcube.com/content/box_Date/19940929/ to https://www.thebaseballcube.com/content/box_Date/20010806/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/228434/"
+    },
+    {
+        "player_name": "Jared Jones",
+        "status_update": "changed batting_hand from R to L",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/228434/"
+    },
+    {
+        "player_name": "Jared Jones",
+        "status_update": "changed weight from 205 to 190",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/228434/"
+    },
+    {
+        "player_name": "Jared Jones",
+        "status_update": "changed age from 28 to 23",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/228434/"
+    },
+    {
+        "player_name": "Jared Jones",
+        "status_update": "changed player_name from Thomas Hatch to Jared Jones",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/228434/"
+    },
+    {
+        "player_name": "Jared Jones",
+        "status_update": "changed player_name_link from https://www.thebaseballcube.com/content/player/180876/ to https://www.thebaseballcube.com/content/player/228434/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/228434/"
+    },
+    {
+        "player_name": "Daulton Jefferies",
+        "status_update": "changed draft_info from 2010-    UDFA-MIA to 2016-  1-  37-OAK",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/180650/"
+    },
+    {
+        "player_name": "Daulton Jefferies",
+        "status_update": "changed draft_info_link from https://www.thebaseballcube.com/content/udfa_class/2010~12/ to https://www.thebaseballcube.com/content/draft_year/2016/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/180650/"
+    },
+    {
+        "player_name": "Daulton Jefferies",
+        "status_update": "changed stat_years from 2011-2022 to 2014-2024",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/180650/"
+    },
+    {
+        "player_name": "Daulton Jefferies",
+        "status_update": "changed year_in_mlb from 2017-2022 to 2020-2024",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/180650/"
+    },
+    {
+        "player_name": "Daulton Jefferies",
+        "status_update": "changed hometown from Santo Domingo,DR to Merced,CA",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/180650/"
+    },
+    {
+        "player_name": "Daulton Jefferies",
+        "status_update": "changed hometown_link from https://www.thebaseballcube.com/content/city/25/ to https://www.thebaseballcube.com/content/city/892/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/180650/"
+    },
+    {
+        "player_name": "Daulton Jefferies",
+        "status_update": "changed birthday from 1993-01-18 to 1995-08-02",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/180650/"
+    },
+    {
+        "player_name": "Daulton Jefferies",
+        "status_update": "changed birthday_link from https://www.thebaseballcube.com/content/box_Date/19930118/ to https://www.thebaseballcube.com/content/box_Date/19950802/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/180650/"
+    },
+    {
+        "player_name": "Daulton Jefferies",
+        "status_update": "changed throwing_hand from L to R",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/180650/"
+    },
+    {
+        "player_name": "Daulton Jefferies",
+        "status_update": "changed weight from 240 to 182",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/180650/"
+    },
+    {
+        "player_name": "Daulton Jefferies",
+        "status_update": "changed height from 6-3 to 6-0",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/180650/"
+    },
+    {
+        "player_name": "Daulton Jefferies",
+        "status_update": "changed age from 30 to 29",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/180650/"
+    },
+    {
+        "player_name": "Daulton Jefferies",
+        "status_update": "changed player_name from Jarlin Garcia to Daulton Jefferies",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/180650/"
+    },
+    {
+        "player_name": "Daulton Jefferies",
+        "status_update": "changed player_name_link from https://www.thebaseballcube.com/content/player/171597/ to https://www.thebaseballcube.com/content/player/180650/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/180650/"
+    },
+    {
+        "player_name": "Colin Holderman",
+        "status_update": "changed draft_info from 2015-  5- 144-PHI to 2016-  9- 280-NYN",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/195721/"
+    },
+    {
+        "player_name": "Colin Holderman",
+        "status_update": "changed draft_info_link from https://www.thebaseballcube.com/content/draft_year/2015/ to https://www.thebaseballcube.com/content/draft_year/2016/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/195721/"
+    },
+    {
+        "player_name": "Colin Holderman",
+        "status_update": "changed stat_years from 2015-2023 to 2015-2024",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/195721/"
+    },
+    {
+        "player_name": "Colin Holderman",
+        "status_update": "changed year_in_mlb from 2021-2023 to 2022-2024",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/195721/"
+    },
+    {
+        "player_name": "Colin Holderman",
+        "status_update": "changed hometown from Chino Hills,CA to Bourbonnais,IL",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/195721/"
+    },
+    {
+        "player_name": "Colin Holderman",
+        "status_update": "changed hometown_link from https://www.thebaseballcube.com/content/city/3174/ to https://www.thebaseballcube.com/content/city/5969/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/195721/"
+    },
+    {
+        "player_name": "Colin Holderman",
+        "status_update": "changed birthday from 1997-04-24 to 1995-10-08",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/195721/"
+    },
+    {
+        "player_name": "Colin Holderman",
+        "status_update": "changed birthday_link from https://www.thebaseballcube.com/content/box_Date/19970424/ to https://www.thebaseballcube.com/content/box_Date/19951008/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/195721/"
+    },
+    {
+        "player_name": "Colin Holderman",
+        "status_update": "changed throwing_hand from L to R",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/195721/"
+    },
+    {
+        "player_name": "Colin Holderman",
+        "status_update": "changed weight from 175 to 230",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/195721/"
+    },
+    {
+        "player_name": "Colin Holderman",
+        "status_update": "changed age from 26 to 28",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/195721/"
+    },
+    {
+        "player_name": "Colin Holderman",
+        "status_update": "changed player_name from Bailey Falter to Colin Holderman",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/195721/"
+    },
+    {
+        "player_name": "Colin Holderman",
+        "status_update": "changed player_name_link from https://www.thebaseballcube.com/content/player/197405/ to https://www.thebaseballcube.com/content/player/195721/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/195721/"
+    },
+    {
+        "player_name": "Ben Heller",
+        "status_update": "changed draft_info from 2014-    UDFA-PIT to 2013- 22- 651-CLE",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/180901/"
+    },
+    {
+        "player_name": "Ben Heller",
+        "status_update": "changed draft_info_link from https://www.thebaseballcube.com/content/udfa_class/2014~23/ to https://www.thebaseballcube.com/content/draft_year/2013/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/180901/"
+    },
+    {
+        "player_name": "Ben Heller",
+        "status_update": "changed stat_years from 2015-2023 to 2013-2024",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/180901/"
+    },
+    {
+        "player_name": "Ben Heller",
+        "status_update": "changed year_in_mlb from 2022-2023 to 2016-2024",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/180901/"
+    },
+    {
+        "player_name": "Ben Heller",
+        "status_update": "changed hometown from Samana,DR to Milwaukee,WI",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/180901/"
+    },
+    {
+        "player_name": "Ben Heller",
+        "status_update": "changed hometown_link from https://www.thebaseballcube.com/content/city/8479/ to https://www.thebaseballcube.com/content/city/257/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/180901/"
+    },
+    {
+        "player_name": "Ben Heller",
+        "status_update": "changed birthday from 1997-12-12 to 1991-08-05",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/180901/"
+    },
+    {
+        "player_name": "Ben Heller",
+        "status_update": "changed birthday_link from https://www.thebaseballcube.com/content/box_Date/19971212/ to https://www.thebaseballcube.com/content/box_Date/19910805/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/180901/"
+    },
+    {
+        "player_name": "Ben Heller",
+        "status_update": "changed weight from 160 to 210",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/180901/"
+    },
+    {
+        "player_name": "Ben Heller",
+        "status_update": "changed height from 6-2 to 6-3",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/180901/"
+    },
+    {
+        "player_name": "Ben Heller",
+        "status_update": "changed current_status from IL-7 to IL-15",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/180901/"
+    },
+    {
+        "player_name": "Ben Heller",
+        "status_update": "changed age from 25 to 33",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/180901/"
+    },
+    {
+        "player_name": "Ben Heller",
+        "status_update": "changed player_name from Yerry De Los Santos to Ben Heller",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/180901/"
+    },
+    {
+        "player_name": "Ben Heller",
+        "status_update": "changed player_name_link from https://www.thebaseballcube.com/content/player/198476/ to https://www.thebaseballcube.com/content/player/180901/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/180901/"
+    },
+    {
+        "player_name": "Marco Gonzales",
+        "status_update": "changed draft_info from 2016-    UDFA-NYA to 2013-  1-  19-SLN",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/156693/"
+    },
+    {
+        "player_name": "Marco Gonzales",
+        "status_update": "changed draft_info_link from https://www.thebaseballcube.com/content/udfa_class/2016~20/ to https://www.thebaseballcube.com/content/draft_year/2013/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/156693/"
+    },
+    {
+        "player_name": "Marco Gonzales",
+        "status_update": "changed stat_years from 2017-2023 to 2011-2024",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/156693/"
+    },
+    {
+        "player_name": "Marco Gonzales",
+        "status_update": "changed year_in_mlb from 2021-2023 to 2014-2024",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/156693/"
+    },
+    {
+        "player_name": "Marco Gonzales",
+        "status_update": "changed hometown from Peralvillo,DR to Fort Collins,CO",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/156693/"
+    },
+    {
+        "player_name": "Marco Gonzales",
+        "status_update": "changed hometown_link from https://www.thebaseballcube.com/content/city/21520/ to https://www.thebaseballcube.com/content/city/766/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/156693/"
+    },
+    {
+        "player_name": "Marco Gonzales",
+        "status_update": "changed birthday from 1999-11-07 to 1992-02-16",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/156693/"
+    },
+    {
+        "player_name": "Marco Gonzales",
+        "status_update": "changed birthday_link from https://www.thebaseballcube.com/content/box_Date/19991107/ to https://www.thebaseballcube.com/content/box_Date/19920216/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/156693/"
+    },
+    {
+        "player_name": "Marco Gonzales",
+        "status_update": "changed throwing_hand from R to L",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/156693/"
+    },
+    {
+        "player_name": "Marco Gonzales",
+        "status_update": "changed batting_hand from R to L",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/156693/"
+    },
+    {
+        "player_name": "Marco Gonzales",
+        "status_update": "changed weight from 175 to 197",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/156693/"
+    },
+    {
+        "player_name": "Marco Gonzales",
+        "status_update": "changed height from 6-0 to 6-1",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/156693/"
+    },
+    {
+        "player_name": "Marco Gonzales",
+        "status_update": "changed current_status from Minors to IL-60",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/156693/"
+    },
+    {
+        "player_name": "Marco Gonzales",
+        "status_update": "changed age from 23 to 32",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/156693/"
+    },
+    {
+        "player_name": "Marco Gonzales",
+        "status_update": "changed player_name from Roansy Contreras to Marco Gonzales",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/156693/"
+    },
+    {
+        "player_name": "Marco Gonzales",
+        "status_update": "changed player_name_link from https://www.thebaseballcube.com/content/player/210399/ to https://www.thebaseballcube.com/content/player/156693/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/156693/"
+    },
+    {
+        "player_name": "Bailey Falter",
+        "status_update": "changed draft_info from 2018- 11- 324-PIT to 2015-  5- 144-PHI",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/197405/"
+    },
+    {
+        "player_name": "Bailey Falter",
+        "status_update": "changed draft_info_link from https://www.thebaseballcube.com/content/draft_year/2018/ to https://www.thebaseballcube.com/content/draft_year/2015/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/197405/"
+    },
+    {
+        "player_name": "Bailey Falter",
+        "status_update": "changed stat_years from 2018-2023 to 2015-2024",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/197405/"
+    },
+    {
+        "player_name": "Bailey Falter",
+        "status_update": "changed year_in_mlb from -- to 2021-2024",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/197405/"
+    },
+    {
+        "player_name": "Bailey Falter",
+        "status_update": "changed highest_level_played from AAA to MLB",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/197405/"
+    },
+    {
+        "player_name": "Bailey Falter",
+        "status_update": "changed hometown from Waterford,CT to Chino Hills,CA",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/197405/"
+    },
+    {
+        "player_name": "Bailey Falter",
+        "status_update": "changed hometown_link from https://www.thebaseballcube.com/content/city/5001/ to https://www.thebaseballcube.com/content/city/3174/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/197405/"
+    },
+    {
+        "player_name": "Bailey Falter",
+        "status_update": "changed birthday from 1999-11-08 to 1997-04-24",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/197405/"
+    },
+    {
+        "player_name": "Bailey Falter",
+        "status_update": "changed birthday_link from https://www.thebaseballcube.com/content/box_Date/19991108/ to https://www.thebaseballcube.com/content/box_Date/19970424/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/197405/"
+    },
+    {
+        "player_name": "Bailey Falter",
+        "status_update": "changed throwing_hand from R to L",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/197405/"
+    },
+    {
+        "player_name": "Bailey Falter",
+        "status_update": "changed weight from 195 to 205",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/197405/"
+    },
+    {
+        "player_name": "Bailey Falter",
+        "status_update": "changed height from 6-2 to 6-4",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/197405/"
+    },
+    {
+        "player_name": "Bailey Falter",
+        "status_update": "changed current_status from IL-7 to Active",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/197405/"
+    },
+    {
+        "player_name": "Bailey Falter",
+        "status_update": "changed age from 23 to 27",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/197405/"
+    },
+    {
+        "player_name": "Bailey Falter",
+        "status_update": "changed player_name from Mike Burrows to Bailey Falter",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/197405/"
+    },
+    {
+        "player_name": "Bailey Falter",
+        "status_update": "changed player_name_link from https://www.thebaseballcube.com/content/player/215973/ to https://www.thebaseballcube.com/content/player/197405/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/197405/"
+    },
+    {
+        "player_name": "Aroldis Chapman",
+        "status_update": "changed draft_info from 2015-  6- 187-PIT to 2010-    UDFA-CIN",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/156230/"
+    },
+    {
+        "player_name": "Aroldis Chapman",
+        "status_update": "changed draft_info_link from https://www.thebaseballcube.com/content/draft_year/2015/ to https://www.thebaseballcube.com/content/udfa_class/2010~8/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/156230/"
+    },
+    {
+        "player_name": "Aroldis Chapman",
+        "status_update": "changed stat_years from 2013-2022 to 2010-2024",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/156230/"
+    },
+    {
+        "player_name": "Aroldis Chapman",
+        "status_update": "changed year_in_mlb from 2020-2022 to 2010-2024",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/156230/"
+    },
+    {
+        "player_name": "Aroldis Chapman",
+        "status_update": "changed hometown from New Carlisle,OH to Holguin,CU",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/156230/"
+    },
+    {
+        "player_name": "Aroldis Chapman",
+        "status_update": "changed hometown_link from https://www.thebaseballcube.com/content/city/8075/ to https://www.thebaseballcube.com/content/city/3718/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/156230/"
+    },
+    {
+        "player_name": "Aroldis Chapman",
+        "status_update": "changed birthday from 1993-11-17 to 1988-02-28",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/156230/"
+    },
+    {
+        "player_name": "Aroldis Chapman",
+        "status_update": "changed birthday_link from https://www.thebaseballcube.com/content/box_Date/19931117/ to https://www.thebaseballcube.com/content/box_Date/19880228/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/156230/"
+    },
+    {
+        "player_name": "Aroldis Chapman",
+        "status_update": "changed throwing_hand from R to L",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/156230/"
+    },
+    {
+        "player_name": "Aroldis Chapman",
+        "status_update": "changed batting_hand from R to L",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/156230/"
+    },
+    {
+        "player_name": "Aroldis Chapman",
+        "status_update": "changed weight from 185 to 218",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/156230/"
+    },
+    {
+        "player_name": "Aroldis Chapman",
+        "status_update": "changed height from 6-3 to 6-4",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/156230/"
+    },
+    {
+        "player_name": "Aroldis Chapman",
+        "status_update": "changed current_status from IL-60 to Active",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/156230/"
+    },
+    {
+        "player_name": "Aroldis Chapman",
+        "status_update": "changed age from 29 to 35",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/156230/"
+    },
+    {
+        "player_name": "Aroldis Chapman",
+        "status_update": "changed player_name from J.T. Brubaker to Aroldis Chapman",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/156230/"
+    },
+    {
+        "player_name": "Aroldis Chapman",
+        "status_update": "changed player_name_link from https://www.thebaseballcube.com/content/player/174303/ to https://www.thebaseballcube.com/content/player/156230/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/156230/"
+    },
+    {
+        "player_name": "Ryan Borucki",
+        "status_update": "changed stat_years from 2012-2023 to 2012-2024",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/171139/"
+    },
+    {
+        "player_name": "Ryan Borucki",
+        "status_update": "changed year_in_mlb from 2018-2023 to 2018-2024",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/171139/"
+    },
+    {
+        "player_name": "Ryan Borucki",
+        "status_update": "changed hometown from Mundelein,IL to Highland Park,IL",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/171139/"
+    },
+    {
+        "player_name": "Ryan Borucki",
+        "status_update": "changed hometown_link from https://www.thebaseballcube.com/content/city/10112/ to https://www.thebaseballcube.com/content/city/5258/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/171139/"
+    },
+    {
+        "player_name": "Ryan Borucki",
+        "status_update": "changed weight from 215 to 210",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/171139/"
+    },
+    {
+        "player_name": "Ryan Borucki",
+        "status_update": "changed age from 29 to 30",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/171139/"
+    },
+    {
+        "player_name": "Jalen Beeks",
+        "status_update": "changed draft_info from 2017-  6- 178-PIT to 2014- 12- 374-BOS",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/175200/"
+    },
+    {
+        "player_name": "Jalen Beeks",
+        "status_update": "changed draft_info_link from https://www.thebaseballcube.com/content/draft_year/2017/ to https://www.thebaseballcube.com/content/draft_year/2014/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/175200/"
+    },
+    {
+        "player_name": "Jalen Beeks",
+        "status_update": "changed stat_years from 2017-2023 to 2013-2024",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/175200/"
+    },
+    {
+        "player_name": "Jalen Beeks",
+        "status_update": "changed year_in_mlb from 2023-2023 to 2018-2024",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/175200/"
+    },
+    {
+        "player_name": "Jalen Beeks",
+        "status_update": "changed hometown from Richmond,VA to Fayetteville,AR",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/175200/"
+    },
+    {
+        "player_name": "Jalen Beeks",
+        "status_update": "changed hometown_link from https://www.thebaseballcube.com/content/city/1639/ to https://www.thebaseballcube.com/content/city/1969/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/175200/"
+    },
+    {
+        "player_name": "Jalen Beeks",
+        "status_update": "changed birthday from 1998-06-19 to 1993-07-10",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/175200/"
+    },
+    {
+        "player_name": "Jalen Beeks",
+        "status_update": "changed birthday_link from https://www.thebaseballcube.com/content/box_Date/19980619/ to https://www.thebaseballcube.com/content/box_Date/19930710/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/175200/"
+    },
+    {
+        "player_name": "Jalen Beeks",
+        "status_update": "changed throwing_hand from R to L",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/175200/"
+    },
+    {
+        "player_name": "Jalen Beeks",
+        "status_update": "changed batting_hand from R to L",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/175200/"
+    },
+    {
+        "player_name": "Jalen Beeks",
+        "status_update": "changed weight from 230 to 215",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/175200/"
+    },
+    {
+        "player_name": "Jalen Beeks",
+        "status_update": "changed height from 6-3 to 5-11",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/175200/"
+    },
+    {
+        "player_name": "Jalen Beeks",
+        "status_update": "changed current_status from Minors to Active",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/175200/"
+    },
+    {
+        "player_name": "Jalen Beeks",
+        "status_update": "changed age from 25 to 31",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/175200/"
+    },
+    {
+        "player_name": "Jalen Beeks",
+        "status_update": "changed player_name from Cody Bolton to Jalen Beeks",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/175200/"
+    },
+    {
+        "player_name": "Jalen Beeks",
+        "status_update": "changed player_name_link from https://www.thebaseballcube.com/content/player/209879/ to https://www.thebaseballcube.com/content/player/175200/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/175200/"
+    },
+    {
+        "player_name": "David Bednar",
+        "status_update": "changed draft_info from 2017-    UDFA-PIT to 2016- 35-1044-SDN",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/187493/"
+    },
+    {
+        "player_name": "David Bednar",
+        "status_update": "changed draft_info_link from https://www.thebaseballcube.com/content/udfa_class/2017~23/ to https://www.thebaseballcube.com/content/draft_year/2016/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/187493/"
+    },
+    {
+        "player_name": "David Bednar",
+        "status_update": "changed stat_years from 2017-2023 to 2014-2024",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/187493/"
+    },
+    {
+        "player_name": "David Bednar",
+        "status_update": "changed year_in_mlb from 2023-2023 to 2019-2024",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/187493/"
+    },
+    {
+        "player_name": "David Bednar",
+        "status_update": "changed hometown from Los Hidalgos,DR to Pittsburgh,PA",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/187493/"
+    },
+    {
+        "player_name": "David Bednar",
+        "status_update": "changed hometown_link from https://www.thebaseballcube.com/content/city/11824/ to https://www.thebaseballcube.com/content/city/294/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/187493/"
+    },
+    {
+        "player_name": "David Bednar",
+        "status_update": "changed birthday from 1995-10-18 to 1994-10-10",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/187493/"
+    },
+    {
+        "player_name": "David Bednar",
+        "status_update": "changed birthday_link from https://www.thebaseballcube.com/content/box_Date/19951018/ to https://www.thebaseballcube.com/content/box_Date/19941010/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/187493/"
+    },
+    {
+        "player_name": "David Bednar",
+        "status_update": "changed batting_hand from R to L",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/187493/"
+    },
+    {
+        "player_name": "David Bednar",
+        "status_update": "changed weight from 175 to 225",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/187493/"
+    },
+    {
+        "player_name": "David Bednar",
+        "status_update": "changed height from 6-3 to 6-0",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/187493/"
+    },
+    {
+        "player_name": "David Bednar",
+        "status_update": "changed current_status from Minors to Active",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/187493/"
+    },
+    {
+        "player_name": "David Bednar",
+        "status_update": "changed age from 27 to 29",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/187493/"
+    },
+    {
+        "player_name": "David Bednar",
+        "status_update": "changed player_name from Osvaldo Bido to David Bednar",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/187493/"
+    },
+    {
+        "player_name": "David Bednar",
+        "status_update": "changed player_name_link from https://www.thebaseballcube.com/content/player/210567/ to https://www.thebaseballcube.com/content/player/187493/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/187493/"
+    },
+    {
+        "player_name": "Braxton Ashcraft",
+        "status_update": "changed draft_info from 2016- 35-1044-SDN to 2018-  2-  51-PIT",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/215869/"
+    },
+    {
+        "player_name": "Braxton Ashcraft",
+        "status_update": "changed draft_info_link from https://www.thebaseballcube.com/content/draft_year/2016/ to https://www.thebaseballcube.com/content/draft_year/2018/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/215869/"
+    },
+    {
+        "player_name": "Braxton Ashcraft",
+        "status_update": "changed stat_years from 2014-2023 to 2018-2024",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/215869/"
+    },
+    {
+        "player_name": "Braxton Ashcraft",
+        "status_update": "changed year_in_mlb from 2019-2023 to --",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/215869/"
+    },
+    {
+        "player_name": "Braxton Ashcraft",
+        "status_update": "changed highest_level_played from MLB to AAA",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/215869/"
+    },
+    {
+        "player_name": "Braxton Ashcraft",
+        "status_update": "changed hometown from Pittsburgh,PA to Waco,TX",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/215869/"
+    },
+    {
+        "player_name": "Braxton Ashcraft",
+        "status_update": "changed hometown_link from https://www.thebaseballcube.com/content/city/294/ to https://www.thebaseballcube.com/content/city/377/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/215869/"
+    },
+    {
+        "player_name": "Braxton Ashcraft",
+        "status_update": "changed birthday from 1994-10-10 to 1999-10-05",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/215869/"
+    },
+    {
+        "player_name": "Braxton Ashcraft",
+        "status_update": "changed birthday_link from https://www.thebaseballcube.com/content/box_Date/19941010/ to https://www.thebaseballcube.com/content/box_Date/19991005/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/215869/"
+    },
+    {
+        "player_name": "Braxton Ashcraft",
+        "status_update": "changed weight from 250 to 195",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/215869/"
+    },
+    {
+        "player_name": "Braxton Ashcraft",
+        "status_update": "changed height from 6-1 to 6-5",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/215869/"
+    },
+    {
+        "player_name": "Braxton Ashcraft",
+        "status_update": "changed current_status from Active to Minors",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/215869/"
+    },
+    {
+        "player_name": "Braxton Ashcraft",
+        "status_update": "changed age from 27 to 24",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/215869/"
+    },
+    {
+        "player_name": "Braxton Ashcraft",
+        "status_update": "changed player_name from David Bednar to Braxton Ashcraft",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/215869/"
+    },
+    {
+        "player_name": "Braxton Ashcraft",
+        "status_update": "changed player_name_link from https://www.thebaseballcube.com/content/player/187493/ to https://www.thebaseballcube.com/content/player/215869/",
+        "date": "2024-09-18",
+        "player_url": "https://www.thebaseballcube.com/content/player/215869/"
+    },
+    {
+        "player_name": "Bryan Reynolds",
+        "status_update": "changed height from 6-3 to 6-2",
+        "date": "2023-09-17",
+        "player_url": "https://www.thebaseballcube.com/content/player/185067/"
+    },
+    {
+        "player_name": "Vinny Capra",
+        "status_update": "changed current_status from Active to Minor",
+        "date": "2023-09-17",
+        "player_url": "https://www.thebaseballcube.com/content/player/207142/"
+    },
+    {
+        "player_name": "Henry Davis",
+        "status_update": "changed current_status from IL-10 to Active",
+        "date": "2023-09-17",
+        "player_url": "https://www.thebaseballcube.com/content/player/221001/"
+    },
+    {
+        "player_name": "Quinn Priester",
+        "status_update": "changed current_status from Minors to Active",
+        "date": "2023-09-17",
+        "player_url": "https://www.thebaseballcube.com/content/player/222134/"
+    },
+    {
+        "player_name": "Cody Bolton",
+        "status_update": "changed current_status from Active to Minors",
+        "date": "2023-09-17",
+        "player_url": "https://www.thebaseballcube.com/content/player/209879/"
+    }
 ]
